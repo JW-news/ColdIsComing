@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cold front',en,Causes,#00ffff,#00ffff,3,0.2307052111683288
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.2030071617256209
-'heating system',en,Mitigation,#00ff00,#00ff00,3,0.19309329412041956
-'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.1819522744105899
+'heating system',en,Mitigation,#00ff00,#00ff00,3,0.1930932941204195
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.1813395224217082
 'cold spell',en,Hazard,#ff0000,#ff0000,3,0.1638200705374093
+'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.1581137382490014
 'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.1401653757748867
