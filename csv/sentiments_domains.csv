@@ -1,8 +1,10 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
+consent.yahoo.com,-0.24011363636363636,0.17308045530407085,0.6267045454545455,0.08597775634881884,2.0
 ahouseinthehills.com,0.0,1.0,0.0,1.0,1.0
 www.dispatch.com,0.0,1.0,0.0,1.0,1.0
 www.wsav.com,0.0,1.0,0.0,1.0,1.0
 www.thelocal.se,0.0,1.0,0.0,1.0,1.0
+www.pnj.com,0.0,1.0,0.0,1.0,1.0
 www.ktalnews.com,0.0,1.0,0.0,1.0,1.0
 www.ksn.com,0.0,1.0,0.0,1.0,1.0
 www.irishtimes.com,0.0,1.0,0.0,1.0,1.0
@@ -13,10 +15,10 @@ www.disneyfoodblog.com,0.0,1.0,0.0,1.0,1.0
 assetstore.unity.com,0.0,1.0,0.0,1.0,1.0
 www.cnet.com,0.0,1.0,0.0,1.0,1.0
 www.buzzfeed.com,0.0,1.0,0.0,1.0,1.0
+wgno.com,0.0,1.0,0.0,1.0,1.0
 timesofindia.indiatimes.com,0.0,1.0,0.0,1.0,1.0
 nypost.com,0.0,1.0,0.0,1.0,1.0
 futurism.com,0.0,1.0,0.0,1.0,1.0
-consent.yahoo.com,0.0,1.0,0.0,1.0,1.0
 bringatrailer.com,0.0,1.0,0.0,1.0,1.0
 biztoc.com,0.0,1.0,0.0,1.0,1.0
 ysph.yale.edu,0.0,1.0,0.0,1.0,1.0
