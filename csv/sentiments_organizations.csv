@@ -1,27 +1,35 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Disney World,Disney World,ORG,-0.3645833333333333,0.6166666666666666,en,4,,,,,,
-Acura,Acura,ORG,-0.3833333333333333,0.3888888888888889,en,3,,,,,,
-YSPH,YSPH,ORG,-0.075,0.3236111111111111,en,2,,,,,,
-the Yale School of Public Health,the Yale School of Public Health,ORG,-0.075,0.3236111111111111,en,2,,,,,,
-The National Weather Service,The National Weather Service,ORG,0.025,0.125,en,2,,,,,,
-WGNO,WGNO,ORG,0.16477272727272727,0.2755681818181818,en,2,,,,,,
-the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.125,0.1875,en,2,,,,,,
-KTAL/KMSS,KTAL/KMSS,ORG,-0.6,0.5,en,2,,,,,,
-ChatGPT,ChatGPT,ORG,-0.15,0.0,en,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+IMD,IMD,ORG,-0.35026041666666663,0.6723090277777777,en,6.4
+The National Weather Service,The National Weather Service,ORG,0.025,0.125,en,2.0
+WGNO,WGNO,ORG,0.173444976076555,0.29007177033492826,en,1.9
+Odisha,Odisha,ORG,-0.37719298245614036,0.3684210526315789,en,1.9
+the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.13157894736842105,0.19736842105263158,en,1.9
+The India Meteorological Department,The India Meteorological Department,ORG,0.033625730994152045,0.14473684210526316,en,1.9
+Disney World,Disney World,ORG,-1.4583333333333333,2.4666666666666663,en,1.0
 "Blizzard Beach
 ","Blizzard Beach
-",ORG,-0.3,0.0,en,1,,,,,,
-Elon Musk’s,Elon Musk’s,ORG,0.0,0.0,en,1,,,,,,
-the National Hurricane Center,the National Hurricane Center,ORG,-0.1,0.0,en,1,,,,,,
-cold Pensacola,cold Pensacola,ORG,-0.39999999999999997,0.0,en,1,,,,,,
-Futurism,Futurism,ORG,0.05,0.0,en,1,,,,,,
-Parks & Rec,Parks & Rec,ORG,-0.6,0.0,en,1,,,,,,
-newsweek.com,newsweek.com,ORG,0.0,0.0,en,1,,,,,,
-"Bennett, Coleman &amp","Bennett, Coleman &amp",ORG,-0.03333333333333334,0.0,en,1,,,,,,
-arreste,arreste,ORG,0.0,0.0,en,1,,,,,,
-Unity,Unity,ORG,0.45,0.0,en,1,,,,,,
-Cold,Cold,ORG,0.45,0.0,en,1,,,,,,
-AI,AI,ORG,0.04999999999999999,0.0,en,1,,,,,,
-WSAV,WSAV,ORG,-0.3833333333333333,0.0,en,1,,,,,,
-Storm Team 3,Storm Team 3,ORG,-0.125,0.0,en,1,,,,,,
-India News,India News,ORG,-0.175,0.0,en,1,,,,,,
+",ORG,-0.3,0.0,en,1.0
+the Yale School of Public Health,the Yale School of Public Health,ORG,-0.15,0.6472222222222223,en,1.0
+YSPH,YSPH,ORG,-0.15,0.6472222222222223,en,1.0
+Parks & Rec,Parks & Rec,ORG,-0.6,0.0,en,1.0
+the National Hurricane Center,the National Hurricane Center,ORG,-0.1,0.0,en,1.0
+AQI,AQI,ORG,-0.52,0.0,en,1.0
+the India Meteorological Department,the India Meteorological Department,ORG,-0.3666666666666667,0.0,en,1.0
+Bhubaneswar,Bhubaneswar,ORG,-0.6,0.0,en,1.0
+School Assembly News Headlines,School Assembly News Headlines,ORG,0.25,0.0,en,1.0
+Elon Musk’s,Elon Musk’s,ORG,0.0,0.0,en,1.0
+Futurism,Futurism,ORG,0.05,0.0,en,1.0
+cold Pensacola,cold Pensacola,ORG,-0.39999999999999997,0.0,en,1.0
+KTAL/KMSS,KTAL/KMSS,ORG,-1.2,1.0,en,1.0
+ChatGPT,ChatGPT,ORG,-0.15,0.0,en,1.0
+newsweek.com,newsweek.com,ORG,0.0,0.0,en,1.0
+"Bennett, Coleman &amp","Bennett, Coleman &amp",ORG,-0.03333333333333334,0.0,en,1.0
+India News,India News,ORG,-0.175,0.0,en,1.0
+arreste,arreste,ORG,0.0,0.0,en,1.0
+Acura,Acura,ORG,-1.15,1.1666666666666667,en,1.0
+Unity,Unity,ORG,0.45,0.0,en,1.0
+Cold,Cold,ORG,0.45,0.0,en,1.0
+AI,AI,ORG,0.04999999999999999,0.0,en,1.0
+WSAV,WSAV,ORG,-0.3833333333333333,0.0,en,1.0
+Storm Team 3,Storm Team 3,ORG,-0.125,0.0,en,1.0
+The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,1.0

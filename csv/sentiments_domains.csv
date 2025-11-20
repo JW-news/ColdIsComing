@@ -1,7 +1,10 @@
 domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
+economictimes.indiatimes.com,-0.15700689935064938,0.25302228352120903,0.6329755140692641,0.13835242586839697,4.0
 consent.yahoo.com,-0.24011363636363636,0.17308045530407085,0.6267045454545455,0.08597775634881884,2.0
+indianexpress.com,-0.061225895316804384,0.24339667302826196,0.5570247933884298,0.080645236201441,2.0
+timesofindia.indiatimes.com,-0.24662698412698408,0.08558236835789564,0.6055555555555556,0.2042752923427803,2.0
 ahouseinthehills.com,0.0,1.0,0.0,1.0,1.0
-www.dispatch.com,0.0,1.0,0.0,1.0,1.0
+www.expressnews.com,0.0,1.0,0.0,1.0,1.0
 www.wsav.com,0.0,1.0,0.0,1.0,1.0
 www.thelocal.se,0.0,1.0,0.0,1.0,1.0
 www.pnj.com,0.0,1.0,0.0,1.0,1.0
@@ -10,13 +13,12 @@ www.ksn.com,0.0,1.0,0.0,1.0,1.0
 www.irishtimes.com,0.0,1.0,0.0,1.0,1.0
 www.heraldtribune.com,0.0,1.0,0.0,1.0,1.0
 www.forbes.com,0.0,1.0,0.0,1.0,1.0
-www.expressnews.com,0.0,1.0,0.0,1.0,1.0
+www.cnet.com,0.0,1.0,0.0,1.0,1.0
+www.dispatch.com,0.0,1.0,0.0,1.0,1.0
 www.disneyfoodblog.com,0.0,1.0,0.0,1.0,1.0
 assetstore.unity.com,0.0,1.0,0.0,1.0,1.0
-www.cnet.com,0.0,1.0,0.0,1.0,1.0
 www.buzzfeed.com,0.0,1.0,0.0,1.0,1.0
 wgno.com,0.0,1.0,0.0,1.0,1.0
-timesofindia.indiatimes.com,0.0,1.0,0.0,1.0,1.0
 nypost.com,0.0,1.0,0.0,1.0,1.0
 futurism.com,0.0,1.0,0.0,1.0,1.0
 bringatrailer.com,0.0,1.0,0.0,1.0,1.0
