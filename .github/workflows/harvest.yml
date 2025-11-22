@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
 #      image: tamboraorg/crecoding:2020.0
-      image: credocker/crepyhon:2024.0
+      image: credocker/crepython:2024.0
       env:
         NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       volumes:
