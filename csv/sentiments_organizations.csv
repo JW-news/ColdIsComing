@@ -1,10 +1,11 @@
 ,phrase,label,sentiment,subjectivity,language,count
-IMD,IMD,ORG,-0.35026041666666663,0.6723090277777777,en,6.4
+IMD,IMD,ORG,-0.3481735159817351,0.6750380517503803,en,7.300000000000001
 The National Weather Service,The National Weather Service,ORG,0.025,0.125,en,2.0
 WGNO,WGNO,ORG,0.173444976076555,0.29007177033492826,en,1.9
-Odisha,Odisha,ORG,-0.37719298245614036,0.3684210526315789,en,1.9
 the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.13157894736842105,0.19736842105263158,en,1.9
+Odisha,Odisha,ORG,-0.37719298245614036,0.3684210526315789,en,1.9
 The India Meteorological Department,The India Meteorological Department,ORG,0.033625730994152045,0.14473684210526316,en,1.9
+limestone farmhouse,limestone farmhouse,ORG,0.10732323232323232,0.21885521885521883,en,1.8
 Disney World,Disney World,ORG,-1.4583333333333333,2.4666666666666663,en,1.0
 "Blizzard Beach
 ","Blizzard Beach
@@ -17,10 +18,13 @@ AQI,AQI,ORG,-0.52,0.0,en,1.0
 the India Meteorological Department,the India Meteorological Department,ORG,-0.3666666666666667,0.0,en,1.0
 Bhubaneswar,Bhubaneswar,ORG,-0.6,0.0,en,1.0
 School Assembly News Headlines,School Assembly News Headlines,ORG,0.25,0.0,en,1.0
+The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,1.0
+Govt,Govt,ORG,0.1,0.0,en,1.0
 Elon Musk’s,Elon Musk’s,ORG,0.0,0.0,en,1.0
-Futurism,Futurism,ORG,0.05,0.0,en,1.0
+Canet d’Adri,Canet d’Adri,ORG,0.19318181818181818,0.0,en,1.0
 cold Pensacola,cold Pensacola,ORG,-0.39999999999999997,0.0,en,1.0
 KTAL/KMSS,KTAL/KMSS,ORG,-1.2,1.0,en,1.0
+Futurism,Futurism,ORG,0.05,0.0,en,1.0
 ChatGPT,ChatGPT,ORG,-0.15,0.0,en,1.0
 newsweek.com,newsweek.com,ORG,0.0,0.0,en,1.0
 "Bennett, Coleman &amp","Bennett, Coleman &amp",ORG,-0.03333333333333334,0.0,en,1.0
@@ -32,4 +36,4 @@ Cold,Cold,ORG,0.45,0.0,en,1.0
 AI,AI,ORG,0.04999999999999999,0.0,en,1.0
 WSAV,WSAV,ORG,-0.3833333333333333,0.0,en,1.0
 Storm Team 3,Storm Team 3,ORG,-0.125,0.0,en,1.0
-The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,1.0
+the National Disaster Risk Reduction…,the National Disaster Risk Reduction…,ORG,-0.2333333333333333,0.0,en,1.0

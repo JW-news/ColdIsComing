@@ -1,9 +1,13 @@
 ,phrase,label,sentiment,subjectivity,language,count
 G Udayagiri,G Udayagiri,PERSON,-0.4285714285714286,0.7142857142857143,en,2.8
 G Udaygiri,G Udaygiri,PERSON,-0.6052631578947368,0.9473684210526316,en,1.9
+fran silvestre,fran silvestre,PERSON,0.10732323232323232,0.21885521885521883,en,1.8
 Ron Swanson,Ron Swanson,PERSON,-0.6,1.0,en,1.0
 influensa rising,influensa rising,PERSON,-0.5666666666666667,1.0,en,1.0
 Lisa Teachman,Lisa Teachman,PERSON,-0.09722222222222222,0.7027777777777778,en,1.0
+fran silvestre arquitectos,fran silvestre arquitectos,PERSON,0.19318181818181818,0.3939393939393939,en,1.0
+Fran Silvestre Arquitectosbreathes,Fran Silvestre Arquitectosbreathes,PERSON,0.19318181818181818,0.3939393939393939,en,1.0
 Mikie Sherrill,Mikie Sherrill,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
 Safdarjung Delhis,Safdarjung Delhis,PERSON,0.1166666666666667,0.6541666666666667,en,1.0
 Anil Ambani,Anil Ambani,PERSON,0.0,0.0,en,1.0
+Tarai duri,Tarai duri,PERSON,-0.2333333333333333,0.5333333333333333,en,1.0

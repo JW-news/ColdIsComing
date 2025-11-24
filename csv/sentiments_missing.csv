@@ -1,100 +1,114 @@
 ,phrase,label,sentiment,subjectivity,language,count
+first,first,ORDINAL,,,en,5.4
 Monday,Monday,DATE,,,en,4.6
-three years,three years,DATE,,,en,2.8
+this week,this week,DATE,,,en,3.6999999999999997
+two,two,CARDINAL,,,en,2.8
 November night,November night,TIME,,,en,2.8
+three years,three years,DATE,,,en,2.8
 morning,morning,TIME,,,en,2.0
-237,237,CARDINAL,,,en,1.9
-evening,evening,TIME,,,en,1.9
-6.6 degrees Celsius,6.6 degrees Celsius,QUANTITY,,,en,1.9
-Consent Framework,Consent Framework,WORK_OF_ART,,,en,1.9
-seven,seven,CARDINAL,,,en,1.9
-Friday,Friday,DATE,,,en,1.9
-5.4 degree Celsius,5.4 degree Celsius,QUANTITY,,,en,1.9
-7 degrees Celsius,7 degrees Celsius,QUANTITY,,,en,1.9
-the season early next week,the season early next week,DATE,,,en,1.9
-Saturday,Saturday,DATE,,,en,1.9
 80 this afternoon,80 this afternoon,TIME,,,en,1.9
+Tuesday,Tuesday,DATE,,,en,1.9
+evening,evening,TIME,,,en,1.9
+7 degrees Celsius,7 degrees Celsius,QUANTITY,,,en,1.9
+winter,winter,DATE,,,en,1.9
+237,237,CARDINAL,,,en,1.9
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,1.9
+6.6 degrees Celsius,6.6 degrees Celsius,QUANTITY,,,en,1.9
+Friday,Friday,DATE,,,en,1.9
+seven,seven,CARDINAL,,,en,1.9
+5.4 degree Celsius,5.4 degree Celsius,QUANTITY,,,en,1.9
+Himalayan,Himalayan,NORP,,,en,1.9
+18 million,18 million,CARDINAL,,,en,1.9
+Saturday,Saturday,DATE,,,en,1.9
+200,200,CARDINAL,,,en,1.9
+the season early next week,the season early next week,DATE,,,en,1.9
+First,First,ORDINAL,,,en,1.9
+Veterans Day,Veterans Day,EVENT,,,en,1.9
+the next few days,the next few days,DATE,,,en,1.0
 every Monday,every Monday,DATE,,,en,1.0
+This Week,This Week,DATE,,,en,1.0
 the 20s,the 20s,DATE,,,en,1.0
 +2441,+2441,NORP,,,en,1.0
-11,11,CARDINAL,,,en,1.0
+the season,the season,DATE,,,en,1.0
+11.2 degree C,11.2 degree C,MONEY,,,en,1.0
 a pleasant weekend,a pleasant weekend,DATE,,,en,1.0
-This Week,This Week,DATE,,,en,1.0
-29,29,CARDINAL,,,en,1.0
-$1 trillion,$1 trillion,MONEY,,,en,1.0
-This week,This week,DATE,,,en,1.0
-13.7 °C,13.7 °C,MONEY,,,en,1.0
-"Saturday, Nov. 8, 2025","Saturday, Nov. 8, 2025",DATE,,,en,1.0
-hurricane season,hurricane season,DATE,,,en,1.0
-a few weeks,a few weeks,DATE,,,en,1.0
-between August and October,between August and October,DATE,,,en,1.0
-"June 1 to Nov. 30, 2025","June 1 to Nov. 30, 2025",DATE,,,en,1.0
-today,today,DATE,,,en,1.0
-nighttime,nighttime,TIME,,,en,1.0
-the next few days,the next few days,DATE,,,en,1.0
+12.7 °C,12.7 °C,MONEY,,,en,1.0
+11,11,CARDINAL,,,en,1.0
 Thursday,Thursday,DATE,,,en,1.0
-7,7,CARDINAL,,,en,1.0
-18th November,18th November,DATE,,,en,1.0
+13.7 °C,13.7 °C,MONEY,,,en,1.0
+nighttime,nighttime,TIME,,,en,1.0
+two consecutive days,two consecutive days,DATE,,,en,1.0
+Ghats,Ghats,FAC,,,en,1.0
 mid-day,mid-day,DATE,,,en,1.0
+7 to 10 a.m.,7 to 10 a.m.,TIME,,,en,1.0
+15,15,CARDINAL,,,en,1.0
+hours,hours,TIME,,,en,1.0
+Nov. 11,Nov. 11,DATE,,,en,1.0
+the low 40s,the low 40s,DATE,,,en,1.0
+November 1,November 1,DATE,,,en,1.0
+November 23,November 23,DATE,,,en,1.0
+18 November 2025,18 November 2025,DATE,,,en,1.0
+18th November,18th November,DATE,,,en,1.0
 four,four,CARDINAL,,,en,1.0
-winter,winter,DATE,,,en,1.0
+9,9,CARDINAL,,,en,1.0
 5.4 degrees Celsius,5.4 degrees Celsius,QUANTITY,,,en,1.0
 4,4,CARDINAL,,,en,1.0
 10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.0
 10 degrees,10 degrees,QUANTITY,,,en,1.0
+7,7,CARDINAL,,,en,1.0
 4.5 degrees,4.5 degrees,QUANTITY,,,en,1.0
-12.7 °C,12.7 °C,MONEY,,,en,1.0
 "9°C, which is","9°C, which is",PERCENT,,,en,1.0
 Sunday,Sunday,DATE,,,en,1.0
-two consecutive days,two consecutive days,DATE,,,en,1.0
-two,two,CARDINAL,,,en,1.0
-9,9,CARDINAL,,,en,1.0
-Ghats,Ghats,FAC,,,en,1.0
-+4569 chars,+4569 chars,WORK_OF_ART,,,en,1.0
-11.2 degree C,11.2 degree C,MONEY,,,en,1.0
-season,season,DATE,,,en,1.0
-Australian,Australian,NORP,,,en,1.0
-daily,daily,DATE,,,en,1.0
-next weeks',next weeks',DATE,,,en,1.0
+This week,This week,DATE,,,en,1.0
+$1 trillion,$1 trillion,MONEY,,,en,1.0
+29,29,CARDINAL,,,en,1.0
+"Saturday, Nov. 8, 2025","Saturday, Nov. 8, 2025",DATE,,,en,1.0
+"85,000","85,000",CARDINAL,,,en,1.0
+90 degrees,90 degrees,QUANTITY,,,en,1.0
+holiday weekend,holiday weekend,DATE,,,en,1.0
+Two,Two,CARDINAL,,,en,1.0
+Today,Today,DATE,,,en,1.0
 early Oct. 23,early Oct. 23,DATE,,,en,1.0
 early Thursday,early Thursday,DATE,,,en,1.0
 2007,2007,DATE,,,en,1.0
 Canadian,Canadian,NORP,,,en,1.0
 1997,1997,DATE,,,en,1.0
 "100,000","100,000",CARDINAL,,,en,1.0
-"85,000","85,000",CARDINAL,,,en,1.0
 100,100,CARDINAL,,,en,1.0
+hurricane season,hurricane season,DATE,,,en,1.0
 5,5,CARDINAL,,,en,1.0
 1024x1024px-,1024x1024px-,CARDINAL,,,en,1.0
 500,500,CARDINAL,,,en,1.0
 Autumn week,Autumn week,DATE,,,en,1.0
-this week,this week,DATE,,,en,1.0
 sunny week,sunny week,DATE,,,en,1.0
 Americans,Americans,NORP,,,en,1.0
 more than 50 million,more than 50 million,CARDINAL,,,en,1.0
 More than 50 million,More than 50 million,CARDINAL,,,en,1.0
 The Storm Prediction,The Storm Prediction,WORK_OF_ART,,,en,1.0
 night,night,TIME,,,en,1.0
-Today,Today,DATE,,,en,1.0
-Two,Two,CARDINAL,,,en,1.0
-holiday weekend,holiday weekend,DATE,,,en,1.0
-tonight,tonight,TIME,,,en,1.0
-988,988,CARDINAL,,,en,1.0
+the 40s by Thursday,the 40s by Thursday,DATE,,,en,1.0
+several weeks,several weeks,DATE,,,en,1.0
+1.19 inches,1.19 inches,QUANTITY,,,en,1.0
+3,3,CARDINAL,,,en,1.0
+a few weeks,a few weeks,DATE,,,en,1.0
+between August and October,between August and October,DATE,,,en,1.0
+"June 1 to Nov. 30, 2025","June 1 to Nov. 30, 2025",DATE,,,en,1.0
+today,today,DATE,,,en,1.0
 View Entire Post,View Entire Post,WORK_OF_ART,,,en,1.0
++4569 chars,+4569 chars,WORK_OF_ART,,,en,1.0
+daily,daily,DATE,,,en,1.0
+next weeks',next weeks',DATE,,,en,1.0
++4223 chars,+4223 chars,WORK_OF_ART,,,en,1.0
+988,988,CARDINAL,,,en,1.0
+Australian,Australian,NORP,,,en,1.0
 2025-11-06,2025-11-06,DATE,,,en,1.0
 Next Week,Next Week,DATE,,,en,1.0
 minus 5.5 degrees,minus 5.5 degrees,QUANTITY,,,en,1.0
 Appalachians,Appalachians,NORP,,,en,1.0
 one,one,CARDINAL,,,en,1.0
 Wednesday,Wednesday,DATE,,,en,1.0
+tonight,tonight,TIME,,,en,1.0
 this evening,this evening,TIME,,,en,1.0
-90 degrees,90 degrees,QUANTITY,,,en,1.0
-first,first,ORDINAL,,,en,1.0
 the next 24 hours,the next 24 hours,TIME,,,en,1.0
-Tuesday,Tuesday,DATE,,,en,1.0
 mornings,mornings,TIME,,,en,1.0
-3,3,CARDINAL,,,en,1.0
-1.19 inches,1.19 inches,QUANTITY,,,en,1.0
-several weeks,several weeks,DATE,,,en,1.0
-the 40s by Thursday,the 40s by Thursday,DATE,,,en,1.0
-18 November 2025,18 November 2025,DATE,,,en,1.0
+season,season,DATE,,,en,1.0
