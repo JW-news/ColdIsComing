@@ -1,16 +1,24 @@
 ,phrase,label,sentiment,subjectivity,language,count
 G Udayagiri,G Udayagiri,PERSON,-0.4285714285714286,0.7142857142857143,en,2.8
+Prince William,Prince William,PERSON,-0.4166666666666667,1.0526315789473684,en,1.9
+Storm Claudia,Storm Claudia,PERSON,-0.42105263157894735,0.7543859649122807,en,1.9
 G Udaygiri,G Udaygiri,PERSON,-0.6052631578947368,0.9473684210526316,en,1.9
 fran silvestre,fran silvestre,PERSON,0.10732323232323232,0.21885521885521883,en,1.8
 Ron Swanson,Ron Swanson,PERSON,-0.6,1.0,en,1.0
-influensa rising,influensa rising,PERSON,-0.5666666666666667,1.0,en,1.0
-Lisa Teachman,Lisa Teachman,PERSON,-0.09722222222222222,0.7027777777777778,en,1.0
-fran silvestre arquitectos,fran silvestre arquitectos,PERSON,0.19318181818181818,0.3939393939393939,en,1.0
-Fran Silvestre Arquitectosbreathes,Fran Silvestre Arquitectosbreathes,PERSON,0.19318181818181818,0.3939393939393939,en,1.0
-Mikie Sherrill,Mikie Sherrill,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Juraj Slafkovsky,Juraj Slafkovsky,PERSON,0.0,0.1,en,1.0
+Princess Anne,Princess Anne,PERSON,-0.25,0.35,en,1.0
+Derpy Tiger,Derpy Tiger,PERSON,0.06534090909090909,0.390719696969697,en,1.0
+Buzz Lightyear,Buzz Lightyear,PERSON,0.06534090909090909,0.390719696969697,en,1.0
+Karl-Anthony Towns,Karl-Anthony Towns,PERSON,0.2857142857142857,0.5357142857142857,en,1.0
+Kristian Winfield,Kristian Winfield,PERSON,0.2857142857142857,0.5357142857142857,en,1.0
+Tarai duri,Tarai duri,PERSON,-0.2333333333333333,0.5333333333333333,en,1.0
 Safdarjung Delhis,Safdarjung Delhis,PERSON,0.1166666666666667,0.6541666666666667,en,1.0
 Anil Ambani,Anil Ambani,PERSON,0.0,0.0,en,1.0
-Juraj Slafkovsky,Juraj Slafkovsky,PERSON,0.0,0.1,en,1.0
-Tarai duri,Tarai duri,PERSON,-0.2333333333333333,0.5333333333333333,en,1.0
-Kristian Winfield,Kristian Winfield,PERSON,0.2857142857142857,0.5357142857142857,en,1.0
-Karl-Anthony Towns,Karl-Anthony Towns,PERSON,0.2857142857142857,0.5357142857142857,en,1.0
+influensa rising,influensa rising,PERSON,-0.5666666666666667,1.0,en,1.0
+Tsvetana Paraskova - Nov,Tsvetana Paraskova - Nov,PERSON,0.13999999999999999,0.26,en,1.0
+Aya Nagar,Aya Nagar,PERSON,0.20625000000000002,0.7770833333333333,en,1.0
+Mikie Sherrill,Mikie Sherrill,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Fran Silvestre Arquitectosbreathes,Fran Silvestre Arquitectosbreathes,PERSON,0.19318181818181818,0.3939393939393939,en,1.0
+fran silvestre arquitectos,fran silvestre arquitectos,PERSON,0.19318181818181818,0.3939393939393939,en,1.0
+Lisa Teachman,Lisa Teachman,PERSON,-0.09722222222222222,0.7027777777777778,en,1.0
+Cyclone Ditwah,Cyclone Ditwah,PERSON,-0.0625,0.3125,en,1.0

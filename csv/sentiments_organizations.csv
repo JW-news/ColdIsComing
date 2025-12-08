@@ -1,35 +1,54 @@
 ,phrase,label,sentiment,subjectivity,language,count
-IMD,IMD,ORG,-0.2674897119341563,0.7163923182441699,en,8.100000000000001
-The National Weather Service,The National Weather Service,ORG,0.025,0.125,en,2.0
-NBA,NBA,ORG,-0.02923976608187134,0.0,en,1.9
+IMD,IMD,ORG,-0.19431216931216927,0.6030129335684891,en,18.9
+Disney World,Disney World,ORG,-0.322463768115942,0.5887681159420289,en,4.6
+The India Meteorological Department,The India Meteorological Department,ORG,-0.19146825396825398,0.33630952380952384,en,2.8
+Mustang,Mustang,ORG,-0.41992630385487534,0.40816326530612246,en,2.8
+The National Weather Service,The National Weather Service,ORG,0.009353741496598641,0.16989795918367348,en,2.8
+the India Meteorological Department,the India Meteorological Department,ORG,-0.09880952380952382,0.2464285714285714,en,2.8
 WGNO,WGNO,ORG,0.173444976076555,0.29007177033492826,en,1.9
-Walt Disney World,Walt Disney World,ORG,-0.14539473684210527,0.2587719298245614,en,1.9
-The India Meteorological Department,The India Meteorological Department,ORG,0.033625730994152045,0.14473684210526316,en,1.9
-Disney World,Disney World,ORG,-0.7807017543859649,1.425438596491228,en,1.9
-Odisha,Odisha,ORG,-0.37719298245614036,0.3684210526315789,en,1.9
-the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.13157894736842105,0.19736842105263158,en,1.9
+Carnival,Carnival,ORG,-0.18421052631578946,0.2631578947368421,en,1.9
+Northeast,Northeast,ORG,-0.10855263157894737,0.0,en,1.9
 Panthers,Panthers,ORG,-0.1842105263157895,0.21052631578947367,en,1.9
+the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.13157894736842105,0.19736842105263158,en,1.9
+Odisha,Odisha,ORG,-0.37719298245614036,0.3684210526315789,en,1.9
+Walt Disney World,Walt Disney World,ORG,-0.14539473684210527,0.2587719298245614,en,1.9
+AAA,AAA,ORG,-0.02314814814814815,0.1253968253968254,en,1.8
 limestone farmhouse,limestone farmhouse,ORG,0.10732323232323232,0.21885521885521883,en,1.8
-Blue Jackets,Blue Jackets,ORG,0.0,0.0,en,1.0
-Govt,Govt,ORG,0.1,0.0,en,1.0
-NoTricksZone,NoTricksZone,ORG,-0.1042648709315376,0.0,en,1.0
-The Gulf Stream Really Collapsing,The Gulf Stream Really Collapsing,ORG,0.2,0.0,en,1.0
-the National Weather Service,the National Weather Service,ORG,-0.25,0.0,en,1.0
-the UK Health Security Agency,the UK Health Security Agency,ORG,-0.04791666666666666,0.0,en,1.0
-the National Disaster Risk Reduction…,the National Disaster Risk Reduction…,ORG,-0.2333333333333333,0.0,en,1.0
-AQI,AQI,ORG,-0.52,0.0,en,1.0
-the India Meteorological Department,the India Meteorological Department,ORG,-0.3666666666666667,0.0,en,1.0
-The Montreal Canadiens,The Montreal Canadiens,ORG,-0.2833333333333334,0.0,en,1.0
-Bhubaneswar,Bhubaneswar,ORG,-0.6,0.0,en,1.0
-School Assembly News Headlines,School Assembly News Headlines,ORG,0.25,0.0,en,1.0
-The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,1.0
-The Florida Panthers,The Florida Panthers,ORG,0.35,0.0,en,1.0
-Picks & Same-Game Parlay,Picks & Same-Game Parlay,ORG,-0.2,0.0,en,1.0
-NHL Game,NHL Game,ORG,-0.2,0.0,en,1.0
-Blue Jackets Prediction,Blue Jackets Prediction,ORG,-0.2,0.0,en,1.0
+the National Weather Service,the National Weather Service,ORG,-0.5,0.5882352941176471,en,1.7
+KTAL/KMSS,KTAL/KMSS,ORG,-0.7499999999999999,0.625,en,1.6
+NBA,NBA,ORG,-0.04629629629629629,0.0,en,1.2
+YSPH,YSPH,ORG,-0.13636363636363635,0.5883838383838383,en,1.1
+the Yale School of Public Health,the Yale School of Public Health,ORG,-0.13636363636363635,0.5883838383838383,en,1.1
 Parks & Rec,Parks & Rec,ORG,-0.6,0.0,en,1.0
-YSPH,YSPH,ORG,-0.15,0.6472222222222223,en,1.0
-KTAL/KMSS,KTAL/KMSS,ORG,-1.2,1.0,en,1.0
+The Gulf Stream Really Collapsing,The Gulf Stream Really Collapsing,ORG,0.2,0.0,en,1.0
+BBC Weather Watchers,BBC Weather Watchers,ORG,-0.6,0.0,en,1.0
+NoTricksZone,NoTricksZone,ORG,-0.1042648709315376,0.0,en,1.0
+the National Disaster Risk Reduction…,the National Disaster Risk Reduction…,ORG,-0.2333333333333333,0.0,en,1.0
+Govt,Govt,ORG,0.1,0.0,en,1.0
+Stayer,Stayer,ORG,0.0,0.0,en,1.0
+The Montreal Canadiens,The Montreal Canadiens,ORG,-0.2833333333333334,0.0,en,1.0
+Status Yellow,Status Yellow,ORG,0.0,0.0,en,1.0
+Nation,Nation,ORG,-0.023809523809523808,0.0,en,1.0
+the Washington Post,the Washington Post,ORG,0.030000000000000002,0.0,en,1.0
+Nutrition Research Keeps,Nutrition Research Keeps,ORG,-0.17499999999999996,0.0,en,1.0
+Big Tech,Big Tech,ORG,0.0,0.0,en,1.0
+DecemberFebruary,DecemberFebruary,ORG,-0.05,0.0,en,1.0
+& Telangana,& Telangana,ORG,0.0,0.0,en,1.0
+Catherine,Catherine,ORG,-0.25,0.0,en,1.0
+Freeze Watch Issued,Freeze Watch Issued,ORG,0.0,0.0,en,1.0
+Warfighters Ready,Warfighters Ready,ORG,-0.17499999999999996,0.0,en,1.0
+TGIFriday,TGIFriday,ORG,0.0,0.0,en,1.0
+Post,Post,ORG,0.0,0.0,en,1.0
+Macy,Macy,ORG,-0.25,0.0,en,1.0
+National,National,ORG,-0.017857142857142856,0.0,en,1.0
+the National ...,the National ...,ORG,-0.017857142857142856,0.0,en,1.0
+The National Weather Servi,The National Weather Servi,ORG,-0.09305555555555556,0.0,en,1.0
+The National Weather Service (NWS,The National Weather Service (NWS,ORG,-0.09305555555555556,0.0,en,1.0
+NHL Game,NHL Game,ORG,-0.2,0.0,en,1.0
+Blue Jackets,Blue Jackets,ORG,0.0,0.0,en,1.0
+AQI,AQI,ORG,-0.52,0.0,en,1.0
+Picks & Same-Game Parlay,Picks & Same-Game Parlay,ORG,-0.2,0.0,en,1.0
+cold Pensacola,cold Pensacola,ORG,-0.39999999999999997,0.0,en,1.0
 Storm Team 3,Storm Team 3,ORG,-0.125,0.0,en,1.0
 WSAV,WSAV,ORG,-0.3833333333333333,0.0,en,1.0
 AI,AI,ORG,0.04999999999999999,0.0,en,1.0
@@ -43,10 +62,21 @@ newsweek.com,newsweek.com,ORG,0.0,0.0,en,1.0
 ChatGPT,ChatGPT,ORG,-0.15,0.0,en,1.0
 Futurism,Futurism,ORG,0.05,0.0,en,1.0
 Canet d’Adri,Canet d’Adri,ORG,0.19318181818181818,0.0,en,1.0
-cold Pensacola,cold Pensacola,ORG,-0.39999999999999997,0.0,en,1.0
 the National Hurricane Center,the National Hurricane Center,ORG,-0.1,0.0,en,1.0
+Blue Jackets Prediction,Blue Jackets Prediction,ORG,-0.2,0.0,en,1.0
+Cold Wave Conditions Expected,Cold Wave Conditions Expected,ORG,-0.2333333333333333,0.0,en,1.0
 Elon Musk’s,Elon Musk’s,ORG,0.0,0.0,en,1.0
+Bloomberg,Bloomberg,ORG,0.0,0.0,en,1.0
+Mercury,Mercury,ORG,-0.6,0.0,en,1.0
 "Blizzard Beach
 ","Blizzard Beach
 ",ORG,-0.3,0.0,en,1.0
-the Yale School of Public Health,the Yale School of Public Health,ORG,-0.15,0.6472222222222223,en,1.0
+KCATA,KCATA,ORG,0.0,0.0,en,1.0
+The Florida Panthers,The Florida Panthers,ORG,0.35,0.0,en,1.0
+the UK Health Security Agency,the UK Health Security Agency,ORG,-0.04791666666666666,0.0,en,1.0
+Sky Weather,Sky Weather,ORG,0.065,0.0,en,1.0
+Engla,Engla,ORG,-0.2,0.0,en,1.0
+Bhubaneswar,Bhubaneswar,ORG,-0.6,0.0,en,1.0
+School Assembly News Headlines,School Assembly News Headlines,ORG,0.25,0.0,en,1.0
+The Supreme Court,The Supreme Court,ORG,0.0,0.0,en,1.0
+The Independent,The Independent,ORG,0.0,0.0,en,1.0
