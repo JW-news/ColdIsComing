@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0722164956396558
 'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0690423331678022
 'cold snap',en,Hazard,#ff0000,#ff0000,3,0.0672489688134565
-'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0531669065995753
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0530218123668391
+'heating system',en,Mitigation,#00ff00,#00ff00,3,0.050154425609639
 'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.0346327223355561
