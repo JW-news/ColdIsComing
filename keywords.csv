@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.094223762599909
-'cold spell',en,Hazard,#ff0000,#ff0000,3,0.08336207685596106
+'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.08490780820992265
+'cold spell',en,Hazard,#ff0000,#ff0000,3,0.083362076855961
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0722164956396558
 'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0713853075491007
 'cold front',en,Causes,#00ffff,#00ffff,3,0.0705806815918508
