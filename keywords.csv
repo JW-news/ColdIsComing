@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'cold spell',en,Hazard,#ff0000,#ff0000,3,0.1042631675547923
+'cold spell',en,Hazard,#ff0000,#ff0000,3,0.093973406967028
 'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.0867766275288724
 'cold snap',en,Hazard,#ff0000,#ff0000,3,0.0853250159510488
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0779142072681346
 'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0679638187298559
 'cold front',en,Causes,#00ffff,#00ffff,3,0.0672198228200952
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0658418114443172
-'colder than usual',en,Hazard,#ff0000,#ff0000,3,0.06164281995077415
+'colder than usual',en,Hazard,#ff0000,#ff0000,3,0.0616428199507741
 'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0572541937632931
 'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.0375653750251427
