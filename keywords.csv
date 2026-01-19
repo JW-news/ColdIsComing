@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.10666076080844145
-'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0949457311779144
+'cold wave',en,Hazard,#ff0000,#ff0000,3,0.10754758650122724
+'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.1066607608084414
 'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0853567459219737
 'cold snap',en,Hazard,#ff0000,#ff0000,3,0.0853250159510488
 'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0730546566854272
