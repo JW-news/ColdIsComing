@@ -1,634 +1,521 @@
 ,phrase,label,sentiment,subjectivity,language,count
-winter,winter,DATE,,,en,74.89999999999992
-first,first,ORDINAL,,,en,28.900000000000006
-Friday,Friday,DATE,,,en,27.0
-Monday,Monday,DATE,,,en,26.599999999999994
-Sunday,Sunday,DATE,,,en,26.09999999999999
-Winter,Winter,DATE,,,en,21.800000000000008
-today,today,DATE,,,en,20.999999999999996
-this week,this week,DATE,,,en,19.750000000000007
-2025,2025,CARDINAL,,,en,19.400000000000002
-Saturday,Saturday,DATE,,,en,18.500000000000004
-one,one,CARDINAL,,,en,16.750000000000007
-this weekend,this weekend,DATE,,,en,15.050000000000004
-Thursday,Thursday,DATE,,,en,13.500000000000004
+winter,winter,DATE,,,en,101.99999999999989
+Friday,Friday,DATE,,,en,34.19999999999999
+first,first,ORDINAL,,,en,31.50000000000001
+Monday,Monday,DATE,,,en,28.299999999999994
+Sunday,Sunday,DATE,,,en,26.39999999999999
+Winter,Winter,DATE,,,en,25.70000000000001
+today,today,DATE,,,en,24.499999999999993
+this weekend,this weekend,DATE,,,en,22.95
+this week,this week,DATE,,,en,22.450000000000003
+Saturday,Saturday,DATE,,,en,21.7
+one,one,CARDINAL,,,en,19.65000000000001
+2025,2025,CARDINAL,,,en,19.6
+Thursday,Thursday,DATE,,,en,17.700000000000006
+Wednesday,Wednesday,DATE,,,en,13.600000000000005
 Christmas,Christmas,DATE,,,en,13.200000000000005
-Tuesday,Tuesday,DATE,,,en,12.000000000000002
-Wednesday,Wednesday,DATE,,,en,11.500000000000004
-two,two,CARDINAL,,,en,10.300000000000002
+Tuesday,Tuesday,DATE,,,en,12.800000000000002
+Russian,Russian,NORP,,,en,12.299999999999999
+Consent Framework,Consent Framework,WORK_OF_ART,,,en,11.5
+two,two,CARDINAL,,,en,11.300000000000002
+morning,morning,TIME,,,en,10.999999999999998
+millions,millions,CARDINAL,,,en,10.8
+Americans,Americans,NORP,,,en,10.4
+night,night,TIME,,,en,10.200000000000003
+this winter,this winter,DATE,,,en,9.7
 Thanksgiving,Thanksgiving,DATE,,,en,9.599999999999998
-night,night,TIME,,,en,9.3
-Consent Framework,Consent Framework,WORK_OF_ART,,,en,9.200000000000001
-morning,morning,TIME,,,en,8.899999999999999
-Russian,Russian,NORP,,,en,7.799999999999998
-Today,Today,DATE,,,en,7.400000000000001
-2026,2026,DATE,,,en,7.399999999999999
+hundreds,hundreds,CARDINAL,,,en,9.5
+2026,2026,DATE,,,en,8.799999999999999
+245,245,CARDINAL,,,en,8.799999999999999
+days,days,DATE,,,en,8.7
+the weekend,the weekend,DATE,,,en,8.399999999999999
+10,10,CARDINAL,,,en,8.0
+Today,Today,DATE,,,en,7.600000000000001
+three,three,CARDINAL,,,en,7.399999999999999
 December,December,DATE,,,en,7.3
-this winter,this winter,DATE,,,en,6.999999999999999
-days,days,DATE,,,en,6.8999999999999995
-millions,millions,CARDINAL,,,en,6.8999999999999995
-245,245,CARDINAL,,,en,6.5
+half,half,CARDINAL,,,en,6.699999999999999
+Palestinians,Palestinians,NORP,,,en,6.4
 second,second,ORDINAL,,,en,6.299999999999999
-three,three,CARDINAL,,,en,6.099999999999999
-Palestinians,Palestinians,NORP,,,en,5.5
-Americans,Americans,NORP,,,en,5.299999999999999
+evening,evening,TIME,,,en,6.200000000000001
+years,years,DATE,,,en,5.999999999999999
+thousands,thousands,CARDINAL,,,en,5.8
+a week,a week,DATE,,,en,5.5
+Ukrainian,Ukrainian,NORP,,,en,5.3
 next week,next week,DATE,,,en,5.2
+zero,zero,CARDINAL,,,en,5.2
 Indian,Indian,NORP,,,en,5.199999999999999
-half,half,CARDINAL,,,en,5.1
+daily,daily,DATE,,,en,5.199999999999999
+English,English,LANGUAGE,,,en,5.0
 October,October,DATE,,,en,5.0
-10,10,CARDINAL,,,en,4.9
-years,years,DATE,,,en,4.8
-English,English,LANGUAGE,,,en,4.7
-New Year’s Eve,New Year’s Eve,EVENT,,,en,4.6
+the next few days,the next few days,DATE,,,en,4.9
+Thousands,Thousands,CARDINAL,,,en,4.8
+European,European,NORP,,,en,4.699999999999999
+January,January,DATE,,,en,4.699999999999999
+French,French,NORP,,,en,4.6000000000000005
 day,day,DATE,,,en,4.6
-Thousands,Thousands,CARDINAL,,,en,4.5
-evening,evening,TIME,,,en,4.4
-zero,zero,CARDINAL,,,en,4.3
-Hundreds,Hundreds,CARDINAL,,,en,4.3
-midnight,midnight,TIME,,,en,4.3
-thousands,thousands,CARDINAL,,,en,4.3
+Hundreds,Hundreds,CARDINAL,,,en,4.6
+New Year’s Eve,New Year’s Eve,EVENT,,,en,4.6
+afternoon,afternoon,TIME,,,en,4.3999999999999995
 the season,the season,DATE,,,en,4.3
+midnight,midnight,TIME,,,en,4.3
 season,season,DATE,,,en,4.2
-the next few days,the next few days,DATE,,,en,4.2
-afternoon,afternoon,TIME,,,en,4.1
 This week,This week,DATE,,,en,4.1
 18,18,CARDINAL,,,en,4.1
-weeks,weeks,DATE,,,en,3.9999999999999996
+2024,2024,CARDINAL,,,en,4.0
 January 2026,January 2026,DATE,,,en,3.9999999999999996
-the weekend,the weekend,DATE,,,en,3.999999999999999
-daily,daily,DATE,,,en,3.999999999999999
+weeks,weeks,DATE,,,en,3.9999999999999996
+German,German,NORP,,,en,3.999999999999999
+40,40,CARDINAL,,,en,3.9000000000000004
 First,First,ORDINAL,,,en,3.9
 overnight,overnight,TIME,,,en,3.7
-French,French,NORP,,,en,3.7
-Himalayan,Himalayan,NORP,,,en,3.6999999999999997
 "8,875","8,875",CARDINAL,,,en,3.6999999999999997
-439,439,CARDINAL,,,en,3.6999999999999997
 Sunday morning,Sunday morning,TIME,,,en,3.6999999999999997
 10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,3.6999999999999997
+Five,Five,CARDINAL,,,en,3.6999999999999997
+439,439,CARDINAL,,,en,3.6999999999999997
 this afternoon,this afternoon,TIME,,,en,3.6999999999999997
+Himalayan,Himalayan,NORP,,,en,3.6999999999999997
 the New Year,the New Year,EVENT,,,en,3.6999999999999997
 Punjab,Punjab,NORP,-0.16007266542980828,0.4868893011750154,en,3.6999999999999993
+One,One,CARDINAL,,,en,3.6999999999999993
 Palestinian,Palestinian,NORP,,,en,3.6000000000000005
-40,40,CARDINAL,,,en,3.6000000000000005
 Thanksgiving week,Thanksgiving week,DATE,,,en,3.6000000000000005
 Jan. 18,Jan. 18,DATE,,,en,3.5
-2024,2024,CARDINAL,,,en,3.4000000000000004
 November,November,DATE,,,en,3.4
-January,January,DATE,,,en,3.4
-Israeli,Israeli,NORP,,,en,3.3
+seven,seven,CARDINAL,,,en,3.3999999999999995
 year,year,DATE,,,en,3.3
+Israeli,Israeli,NORP,,,en,3.3
+Embark,Embark,PRODUCT,,,en,3.3
 7,7,CARDINAL,,,en,3.2
-hundreds,hundreds,CARDINAL,,,en,3.1
+the coming days,the coming days,DATE,,,en,3.1
 summer,summer,DATE,,,en,3.1
 17,17,CARDINAL,,,en,3.1
-One,One,CARDINAL,,,en,3.0999999999999996
-this year,this year,DATE,,,en,3.0999999999999996
-Embark,Embark,PRODUCT,,,en,3.0999999999999996
-up to 20,up to 20,CARDINAL,,,en,3.0999999999999996
 200,200,CARDINAL,,,en,3.0999999999999996
-German,German,NORP,,,en,3.099999999999999
+this year,this year,DATE,,,en,3.0999999999999996
+up to 20,up to 20,CARDINAL,,,en,3.0999999999999996
+5,5,CARDINAL,,,en,3.0999999999999996
 hours,hours,TIME,,,en,3.0000000000000004
-1,1,CARDINAL,,,en,3.0
+American,American,NORP,,,en,3.0
 the year,the year,DATE,,,en,3.0
+1,1,CARDINAL,,,en,3.0
 8,8,CARDINAL,,,en,3.0
+four,four,CARDINAL,,,en,2.9999999999999996
 2,2,CARDINAL,,,en,2.9000000000000004
-Ukrainian,Ukrainian,NORP,,,en,2.9
-European,European,NORP,,,en,2.8999999999999995
-three years,three years,DATE,,,en,2.8
-daytime,daytime,DATE,,,en,2.8
-6.6 degrees Celsius,6.6 degrees Celsius,QUANTITY,,,en,2.8
-November night,November night,TIME,,,en,2.8
-later this month,later this month,DATE,,,en,2.8
-tonight,tonight,TIME,,,en,2.8
+a third day,a third day,DATE,,,en,2.8
 New Year,New Year,EVENT,,,en,2.8
+1977,1977,DATE,,,en,2.8
 January 6,January 6,DATE,,,en,2.8
-50,50,DATE,,,en,2.8
+6.6 degrees Celsius,6.6 degrees Celsius,QUANTITY,,,en,2.8
+daytime,daytime,DATE,,,en,2.8
 this month,this month,DATE,,,en,2.8
-December 9,December 9,DATE,,,en,2.8
+November night,November night,TIME,,,en,2.8
+three years,three years,DATE,,,en,2.8
+just days,just days,DATE,,,en,2.8
 coldest morning,coldest morning,TIME,,,en,2.8
+At least six,At least six,CARDINAL,,,en,2.8
 Two,Two,CARDINAL,,,en,2.8
+later this month,later this month,DATE,,,en,2.8
+December 9,December 9,DATE,,,en,2.8
+tonight,tonight,TIME,,,en,2.8
+50,50,DATE,,,en,2.8
 4,4,CARDINAL,,,en,2.7999999999999994
-American,American,NORP,,,en,2.7
 Dutch,Dutch,NORP,,,en,2.7
+weekend,weekend,DATE,,,en,2.6
 decades,decades,DATE,,,en,2.6
-"More than 1,000","More than 1,000",CARDINAL,,,en,2.5
-this morning,this morning,TIME,,,en,2.5
+tomorrow,tomorrow,DATE,,,en,2.6
+winters,winters,DATE,,,en,2.5999999999999996
+last week,last week,DATE,,,en,2.5999999999999996
 January day,January day,DATE,,,en,2.5
+"More than 1,000","More than 1,000",CARDINAL,,,en,2.5
+last year,last year,DATE,,,en,2.5
+this morning,this morning,TIME,,,en,2.5
 month,month,DATE,,,en,2.5
-seven,seven,CARDINAL,,,en,2.4999999999999996
+third,third,ORDINAL,,,en,2.5
+2021,2021,DATE,,,en,2.5
 2023,2023,DATE,,,en,2.4999999999999996
 a white Christmas,a white Christmas,DATE,,,en,2.4999999999999996
-tomorrow,tomorrow,DATE,,,en,2.4
-the Cold Snap,the Cold Snap,LAW,,,en,2.4
-weekend,weekend,DATE,,,en,2.4
+9,9,CARDINAL,,,en,2.4
+eight,eight,CARDINAL,,,en,2.4
 last night,last night,TIME,,,en,2.4
-four,four,CARDINAL,,,en,2.4
 30,30,CARDINAL,,,en,2.4
-third,third,ORDINAL,,,en,2.2
+week,week,DATE,,,en,2.4
+the Cold Snap,the Cold Snap,LAW,,,en,2.4
+mornings,mornings,TIME,,,en,2.3
+13,13,CARDINAL,,,en,2.2
+15,15,CARDINAL,,,en,2.2
+Six,Six,CARDINAL,,,en,2.2
 11,11,CARDINAL,,,en,2.2
-the coming days,the coming days,DATE,,,en,2.2
+tens of thousands,tens of thousands,CARDINAL,,,en,2.2
+The Fine Print,The Fine Print,WORK_OF_ART,,,en,2.2
 the night,the night,TIME,,,en,2.2
-recent years,recent years,DATE,,,en,2.1999999999999997
+Hundreds of thousands,Hundreds of thousands,CARDINAL,,,en,2.2
+six,six,CARDINAL,,,en,2.2
 4 degrees Celsius,4 degrees Celsius,QUANTITY,,,en,2.1999999999999997
-7 degrees Celsius,7 degrees Celsius,QUANTITY,,,en,2.1999999999999997
+recent years,recent years,DATE,,,en,2.1999999999999997
 This winter,This winter,DATE,,,en,2.1999999999999997
-New Year's Eve,New Year's Eve,EVENT,,,en,2.1999999999999997
+Eight,Eight,CARDINAL,,,en,2.1999999999999997
+7 degrees Celsius,7 degrees Celsius,QUANTITY,,,en,2.1999999999999997
+6,6,CARDINAL,,,en,2.1999999999999997
 two-thirds,two-thirds,CARDINAL,,,en,2.1999999999999997
-9,9,CARDINAL,,,en,2.1999999999999997
-5,5,CARDINAL,,,en,2.1
-winters,winters,DATE,,,en,2.0
-GameSpot,GameSpot,PRODUCT,,,en,2.0
-the month,the month,DATE,,,en,2.0
+New Year's Eve,New Year's Eve,EVENT,,,en,2.1999999999999997
+Cold Snap,Cold Snap,PRODUCT,,,en,2.1
+later this week,later this week,DATE,,,en,2.1
 more than 20%,more than 20%,PERCENT,,,en,2.0
-mornings,mornings,TIME,,,en,2.0
-3I/ATLAS,3I/ATLAS,PRODUCT,,,en,1.9000000000000001
-Turkish,Turkish,NORP,,,en,1.9000000000000001
-Five,Five,CARDINAL,,,en,1.9000000000000001
-the week,the week,DATE,,,en,1.9000000000000001
+the month,the month,DATE,,,en,2.0
+weekly,weekly,DATE,,,en,2.0
+February,February,DATE,,,en,2.0
+GameSpot,GameSpot,PRODUCT,,,en,2.0
+35,35,CARDINAL,,,en,1.9000000000000001
+North American,North American,NORP,,,en,1.9000000000000001
 5D,5D,CARDINAL,,,en,1.9000000000000001
-Cold Snap,Cold Snap,PRODUCT,,,en,1.9
-4.2 degrees Celsius,4.2 degrees Celsius,QUANTITY,,,en,1.9
-the end of this week,the end of this week,DATE,,,en,1.9
-above 100°F,above 100°F,QUANTITY,,,en,1.9
-Three-day,Three-day,DATE,,,en,1.9
-"December 9, 2025","December 9, 2025",DATE,,,en,1.9
-13,13,CARDINAL,,,en,1.9
-Polish,Polish,NORP,,,en,1.9
-early 2026,early 2026,DATE,,,en,1.9
-January 10,January 10,DATE,,,en,1.9
-This Week,This Week,DATE,,,en,1.9
-10 degrees,10 degrees,QUANTITY,,,en,1.9
-this evening,this evening,TIME,,,en,1.9
-just days,just days,DATE,,,en,1.9
-Winter Cold and Collapsing Buildings Kill,Winter Cold and Collapsing Buildings Kill,EVENT,,,en,1.9
-80 this afternoon,80 this afternoon,TIME,,,en,1.9
-December 29,December 29,DATE,,,en,1.9
-35 mph,35 mph,QUANTITY,,,en,1.9
-6,6,CARDINAL,,,en,1.9
-the colder seasons,the colder seasons,DATE,,,en,1.9
-the McLeod Center,the McLeod Center,FAC,,,en,1.9
-59-57,59-57,DATE,,,en,1.9
-Cold,Cold,WORK_OF_ART,,,en,1.9
-earlier this month,earlier this month,DATE,,,en,1.9
-the past 24 hours,the past 24 hours,TIME,,,en,1.9
-8C,8C,CARDINAL,,,en,1.9
+the week,the week,DATE,,,en,1.9000000000000001
+Turkish,Turkish,NORP,,,en,1.9000000000000001
+3I/ATLAS,3I/ATLAS,PRODUCT,,,en,1.9000000000000001
+110,110,CARDINAL,,,en,1.9000000000000001
+200 million,200 million,CARDINAL,,,en,1.9000000000000001
+Scandinavian,Scandinavian,NORP,,,en,1.9000000000000001
+dozens,dozens,CARDINAL,,,en,1.9000000000000001
+Canadian,Canadian,NORP,,,en,1.9000000000000001
+early Monday,early Monday,DATE,,,en,1.9
 Denver International Airport,Denver International Airport,FAC,,,en,1.9
-At least six,At least six,CARDINAL,,,en,1.9
-minus 49 Fahrenheit,minus 49 Fahrenheit,QUANTITY,,,en,1.9
-World,World,WORK_OF_ART,,,en,1.9
-wave days,wave days,DATE,,,en,1.9
-the season early next week,the season early next week,DATE,,,en,1.9
-5.4 degree Celsius,5.4 degree Celsius,QUANTITY,,,en,1.9
-coming days,coming days,DATE,,,en,1.9
-nine,nine,CARDINAL,,,en,1.9
-"December 31 to January 6, 2026","December 31 to January 6, 2026",DATE,,,en,1.9
-a week,a week,DATE,,,en,1.9
-Sunday afternoon/evening,Sunday afternoon/evening,TIME,,,en,1.9
-nighttime,nighttime,TIME,,,en,1.9
-"January 6, 2026","January 6, 2026",DATE,,,en,1.9
-Daytime,Daytime,TIME,,,en,1.9
-the past few days,the past few days,DATE,,,en,1.9
-next few days,next few days,DATE,,,en,1.9
-80°,80°,QUANTITY,,,en,1.9
-Veterans Day,Veterans Day,EVENT,,,en,1.9
-a breezy,a breezy,DATE,,,en,1.9
 New Years Eve,New Years Eve,EVENT,,,en,1.9
+35 mph,35 mph,QUANTITY,,,en,1.9
+January 10,January 10,DATE,,,en,1.9
+4.2 degrees Celsius,4.2 degrees Celsius,QUANTITY,,,en,1.9
+the Côte-des-Neiges community centre,the Côte-des-Neiges community centre,FAC,,,en,1.9
+a breezy,a breezy,DATE,,,en,1.9
+the colder seasons,the colder seasons,DATE,,,en,1.9
+12°,12°,PERCENT,,,en,1.9
+At least ten,At least ten,CARDINAL,,,en,1.9
+minus 49 Fahrenheit,minus 49 Fahrenheit,QUANTITY,,,en,1.9
+wave days,wave days,DATE,,,en,1.9
+World,World,WORK_OF_ART,,,en,1.9
+Sunday afternoon/evening,Sunday afternoon/evening,TIME,,,en,1.9
+Winter Cold and Collapsing Buildings Kill,Winter Cold and Collapsing Buildings Kill,EVENT,,,en,1.9
+the past 24 hours,the past 24 hours,TIME,,,en,1.9
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,1.9
+coming days,coming days,DATE,,,en,1.9
+the McLeod Center,the McLeod Center,FAC,,,en,1.9
+"January 6, 2026","January 6, 2026",DATE,,,en,1.9
+Two Years,Two Years,DATE,,,en,1.9
+80 this afternoon,80 this afternoon,TIME,,,en,1.9
+nine,nine,CARDINAL,,,en,1.9
+80°,80°,QUANTITY,,,en,1.9
+a second day,a second day,DATE,,,en,1.9
+5.4 degree Celsius,5.4 degree Celsius,QUANTITY,,,en,1.9
+the end of this week,the end of this week,DATE,,,en,1.9
+8C,8C,CARDINAL,,,en,1.9
+As millions,As millions,CARDINAL,,,en,1.9
+Asian,Asian,NORP,,,en,1.9
+Daytime,Daytime,TIME,,,en,1.9
+nighttime,nighttime,TIME,,,en,1.9
 more than a dozen,more than a dozen,CARDINAL,,,en,1.9
+December 29,December 29,DATE,,,en,1.9
 18 million,18 million,CARDINAL,,,en,1.9
 237,237,CARDINAL,,,en,1.9
+This Week,This Week,DATE,,,en,1.9
+earlier this month,earlier this month,DATE,,,en,1.9
+10 degrees,10 degrees,QUANTITY,,,en,1.9
+1 week,1 week,DATE,,,en,1.9
+next few days,next few days,DATE,,,en,1.9
 several more days,several more days,DATE,,,en,1.9
-early Monday,early Monday,DATE,,,en,1.9
-eight,eight,CARDINAL,,,en,1.9
-Two Years,Two Years,DATE,,,en,1.9
+the season early next week,the season early next week,DATE,,,en,1.9
+Three-day,Three-day,DATE,,,en,1.9
+"December 31 to January 6, 2026","December 31 to January 6, 2026",DATE,,,en,1.9
+More than 400,More than 400,CARDINAL,,,en,1.9
+Cold,Cold,WORK_OF_ART,,,en,1.9
+this evening,this evening,TIME,,,en,1.9
+early 2026,early 2026,DATE,,,en,1.9
+59-57,59-57,DATE,,,en,1.9
+five,five,CARDINAL,,,en,1.9
+Veterans Day,Veterans Day,EVENT,,,en,1.9
+Polish,Polish,NORP,,,en,1.9
+above 100°F,above 100°F,QUANTITY,,,en,1.9
+"December 9, 2025","December 9, 2025",DATE,,,en,1.9
+the past few days,the past few days,DATE,,,en,1.9
 Millions,Millions,CARDINAL,,,en,1.85
-the weeks after Thanksgiving,the weeks after Thanksgiving,DATE,,,en,1.8
-December 2025,December 2025,DATE,,,en,1.8
-"5,200","5,200",CARDINAL,,,en,1.8
++2441,+2441,NORP,,,en,1.8
+Monday night,Monday night,TIME,,,en,1.8
+their sixth day,their sixth day,DATE,,,en,1.8
+nearly two years,nearly two years,DATE,,,en,1.8
 37,37,CARDINAL,,,en,1.8
-minus 5.5 degrees,minus 5.5 degrees,QUANTITY,,,en,1.8
-Soviet,Soviet,NORP,,,en,1.8
-21,21,CARDINAL,,,en,1.8
 annual,annual,DATE,,,en,1.8
 13 months,13 months,DATE,,,en,1.8
+"5,200","5,200",CARDINAL,,,en,1.8
 two decades,two decades,DATE,,,en,1.8
-Goldfish,Goldfish,PRODUCT,,,en,1.8
 Chinese,Chinese,NORP,,,en,1.8
-nearly two years,nearly two years,DATE,,,en,1.8
-Monday night,Monday night,TIME,,,en,1.8
+minus 5.5 degrees,minus 5.5 degrees,QUANTITY,,,en,1.8
+December 2025,December 2025,DATE,,,en,1.8
+Goldfish,Goldfish,PRODUCT,,,en,1.8
+the weeks after Thanksgiving,the weeks after Thanksgiving,DATE,,,en,1.8
 early-season,early-season,DATE,,,en,1.8
-last year,last year,DATE,,,en,1.8
-weekly,weekly,DATE,,,en,1.7
-February,February,DATE,,,en,1.7
-The month of December,The month of December,DATE,,,en,1.7
-19,19,CARDINAL,,,en,1.7
-100,100,CARDINAL,,,en,1.7
-6.1%,6.1%,PERCENT,,,en,1.7
-week-long,week-long,DATE,,,en,1.7
-32,32,CARDINAL,,,en,1.7
-64,64,CARDINAL,,,en,1.7
-Jayman,Jayman,NORP,,,en,1.7
-the first half,the first half,DATE,,,en,1.7
+Soviet,Soviet,NORP,,,en,1.8
+21,21,CARDINAL,,,en,1.8
+Ukrainians,Ukrainians,NORP,,,en,1.8
 December 16th,December 16th,DATE,,,en,1.7
 the past two months,the past two months,DATE,,,en,1.7
+at least 45,at least 45,CARDINAL,,,en,1.7
+The month of December,The month of December,DATE,,,en,1.7
+100,100,CARDINAL,,,en,1.7
+more than 4 million,more than 4 million,CARDINAL,,,en,1.7
+TODAY,TODAY,DATE,,,en,1.7
+the first half,the first half,DATE,,,en,1.7
+64,64,CARDINAL,,,en,1.7
+6.1%,6.1%,PERCENT,,,en,1.7
+19,19,CARDINAL,,,en,1.7
+"88,000","88,000",MONEY,,,en,1.7
+32,32,CARDINAL,,,en,1.7
 January 14th,January 14th,DATE,,,en,1.7
-minutes,minutes,TIME,,,en,1.6
-40%,40%,PERCENT,,,en,1.6
-March 2026,March 2026,DATE,,,en,1.6
-Voyager 2,Voyager 2,PRODUCT,,,en,1.6
-earlier this week,earlier this week,DATE,,,en,1.6
-110,110,CARDINAL,,,en,1.6
-Fan Combo,Fan Combo,PRODUCT,,,en,1.6
-Midwestern,Midwestern,NORP,,,en,1.6
-Ashes Test,Ashes Test,WORK_OF_ART,,,en,1.6
-Gabba,Gabba,PRODUCT,,,en,1.6
-November 2025,November 2025,DATE,,,en,1.6
-this Sunday,this Sunday,DATE,,,en,1.6
-15,15,CARDINAL,,,en,1.6
-Zero,Zero,CARDINAL,,,en,1.6
+Jayman,Jayman,NORP,,,en,1.7
+week-long,week-long,DATE,,,en,1.7
+late January 2026,late January 2026,DATE,,,en,1.7
+several inches,several inches,QUANTITY,,,en,1.6
+these days,these days,DATE,,,en,1.6
 Soldier Field,Soldier Field,FAC,,,en,1.6
-12 million,12 million,CARDINAL,,,en,1.6
-dozens,dozens,CARDINAL,,,en,1.6
+Midwestern,Midwestern,NORP,,,en,1.6
+More than half,More than half,CARDINAL,,,en,1.6
+Ashes Test,Ashes Test,WORK_OF_ART,,,en,1.6
+Voyager 2,Voyager 2,PRODUCT,,,en,1.6
+Gabba,Gabba,PRODUCT,,,en,1.6
+this Sunday,this Sunday,DATE,,,en,1.6
 "1,940","1,940",CARDINAL,,,en,1.6
 Spanish,Spanish,NORP,,,en,1.6
-Canadian,Canadian,NORP,,,en,1.6
-the holiday season,the holiday season,DATE,,,en,1.6
 all day,all day,DATE,,,en,1.6
 Five Nights,Five Nights,DATE,,,en,1.6
+winter night,winter night,TIME,,,en,1.6
+Italian,Italian,NORP,,,en,1.6
+earlier this week,earlier this week,DATE,,,en,1.6
+Fan Combo,Fan Combo,PRODUCT,,,en,1.6
+Zero,Zero,CARDINAL,,,en,1.6
+34,34,CARDINAL,,,en,1.6
+November 2025,November 2025,DATE,,,en,1.6
+minutes,minutes,TIME,,,en,1.6
+40%,40%,PERCENT,,,en,1.6
+12 million,12 million,CARDINAL,,,en,1.6
+March 2026,March 2026,DATE,,,en,1.6
+several days,several days,DATE,,,en,1.6
+1907,1907,DATE,,,en,1.6
+the holiday season,the holiday season,DATE,,,en,1.6
 29,29,CARDINAL,,,en,1.5999999999999999
-recent weeks,recent weeks,DATE,,,en,1.55
 coming next week,coming next week,DATE,,,en,1.55
+recent weeks,recent weeks,DATE,,,en,1.55
 monthly,monthly,DATE,,,en,1.5
 23,23,CARDINAL,,,en,1.5
 12/14,12/14,CARDINAL,,,en,1.4
 Thanksgiving Day,Thanksgiving Day,DATE,,,en,1.4
-ten,ten,CARDINAL,,,en,1.3
-2010,2010,DATE,,,en,1.3
-mid-December,mid-December,DATE,,,en,1.3
-winter months,winter months,DATE,,,en,1.3
-tens of thousands,tens of thousands,CARDINAL,,,en,1.3
-Orly airport,Orly airport,FAC,,,en,1.3
-10.2 degrees Celsius,10.2 degrees Celsius,QUANTITY,,,en,1.3
-Desi,Desi,NORP,,,en,1.3
-Tiny House Pro,Tiny House Pro,PRODUCT,,,en,1.3
-Around 140,Around 140,CARDINAL,,,en,1.3
-Less than a month,Less than a month,DATE,,,en,1.3
-9.49,9.49,MONEY,,,en,1.3
-several days,several days,DATE,,,en,1.3
-annually,annually,DATE,,,en,1.3
-16,16,CARDINAL,,,en,1.3
-2019,2019,DATE,,,en,1.3
-4-5 inches,4-5 inches,QUANTITY,,,en,1.3
-Sweater Weather,Sweater Weather,WORK_OF_ART,,,en,1.3
-2021,2021,DATE,,,en,1.3
-GPU,GPU,PRODUCT,,,en,1.3
-3,3,CARDINAL,,,en,1.3
-tenth,tenth,ORDINAL,,,en,1.3
-December day,December day,DATE,,,en,1.3
-Pakistani,Pakistani,NORP,,,en,1.3
-125,125,CARDINAL,,,en,1.3
-More than half,More than half,CARDINAL,,,en,1.3
-the day,the day,DATE,,,en,1.3
-next Thursday,next Thursday,DATE,,,en,1.3
-more than 50 centimetres,more than 50 centimetres,QUANTITY,,,en,1.3
-Brazilian,Brazilian,NORP,,,en,1.3
-2 pounds,2 pounds,QUANTITY,,,en,1.3
-Thursday Night Football,Thursday Night Football,WORK_OF_ART,,,en,1.3
-last week,last week,DATE,,,en,1.3
-This year,This year,DATE,,,en,1.3
-Jan 6,Jan 6,DATE,,,en,1.3
-the past few weeks,the past few weeks,DATE,,,en,1.3
-15 degrees,15 degrees,QUANTITY,,,en,1.3
-Dec. 10,Dec. 10,DATE,,,en,1.3
-mid-summer,mid-summer,DATE,,,en,1.3
-the beginning of 2026,the beginning of 2026,DATE,,,en,1.3
-50%,50%,PERCENT,,,en,1.3
-Uranus,Uranus,PRODUCT,,,en,1.3
-early morning,early morning,TIME,,,en,1.3
-Norwegian,Norwegian,NORP,,,en,1.3
-Betta,Betta,NORP,,,en,1.3
-six months later,six months later,DATE,,,en,1.3
-The Fine Print,The Fine Print,WORK_OF_ART,,,en,1.3
-this season,this season,DATE,,,en,1.3
-the end of 2025,the end of 2025,DATE,,,en,1.3
-1.0,1.0,CARDINAL,,,en,1.3
-More than eight years,More than eight years,DATE,,,en,1.3
-1895 to 1930,1895 to 1930,DATE,,,en,1.3
-Holocaust,Holocaust,EVENT,,,en,1.3
-Six,Six,CARDINAL,,,en,1.3
-Approximately $3.6 billion,Approximately $3.6 billion,MONEY,,,en,1.3
-North American,North American,NORP,,,en,1.3
-3.3oz,3.3oz,QUANTITY,,,en,1.3
-14.99,14.99,MONEY,,,en,1.3
-This Cute AI Robot Just Turned Your Car Into,This Cute AI Robot Just Turned Your Car Into,LAW,,,en,1.3
-128,128,CARDINAL,,,en,1.3
-Some 200 million,Some 200 million,CARDINAL,,,en,1.3
-twice a year,twice a year,DATE,,,en,1.3
-The nights,The nights,DATE,,,en,1.3
-2014,2014,DATE,,,en,1.3
-just 12 months,just 12 months,DATE,,,en,1.3
-more than a decade,more than a decade,DATE,,,en,1.3
-six,six,CARDINAL,,,en,1.3
-the next three months of winter,the next three months of winter,DATE,,,en,1.3
-1800W,1800W,CARDINAL,,,en,1.3
-a few years ago,a few years ago,DATE,,,en,1.3
-lake house,lake house,FAC,,,en,1.3
-day five of the,day five of the,DATE,,,en,1.3
-This Year,This Year,DATE,,,en,1.3
-4.37 million,4.37 million,CARDINAL,,,en,1.3
+Celsius,Celsius,PRODUCT,,,en,1.3
 Jan 20,Jan 20,DATE,,,en,1.3
-around 3%,around 3%,PERCENT,,,en,1.3
-the coming week,the coming week,DATE,,,en,1.3
-New Year’s,New Year’s,EVENT,,,en,1.3
-"Jan 20, 2026","Jan 20, 2026",DATE,,,en,1.3
-January 16,January 16,DATE,,,en,1.3
-99.99%,99.99%,PERCENT,,,en,1.3
+winter months,winter months,DATE,,,en,1.3
+the Golden Age,the Golden Age,EVENT,,,en,1.3
+15 degrees,15 degrees,QUANTITY,,,en,1.3
+mid-summer,mid-summer,DATE,,,en,1.3
+Overnight,Overnight,TIME,,,en,1.3
+3,3,CARDINAL,,,en,1.3
+more than 50 centimetres,more than 50 centimetres,QUANTITY,,,en,1.3
+early morning,early morning,TIME,,,en,1.3
+1800W,1800W,CARDINAL,,,en,1.3
+six months later,six months later,DATE,,,en,1.3
+lake house,lake house,FAC,,,en,1.3
 1970s,1970s,DATE,,,en,1.3
+52,52,DATE,,,en,1.3
+this season,this season,DATE,,,en,1.3
+"Jan 20, 2026","Jan 20, 2026",DATE,,,en,1.3
 Cold Arctic,Cold Arctic,PRODUCT,,,en,1.3
-below 65°F,below 65°F,QUANTITY,,,en,1.3
-This Sunday,This Sunday,DATE,,,en,1.3
+the next three months of winter,the next three months of winter,DATE,,,en,1.3
+around 3%,around 3%,PERCENT,,,en,1.3
+a few hours,a few hours,TIME,,,en,1.3
+48,48,CARDINAL,,,en,1.3
+4.37 million,4.37 million,CARDINAL,,,en,1.3
+the morning,the morning,TIME,,,en,1.3
+GPU,GPU,PRODUCT,,,en,1.3
+125,125,CARDINAL,,,en,1.3
+The Sopranos,The Sopranos,WORK_OF_ART,,,en,1.3
+2019,2019,DATE,,,en,1.3
+the day,the day,DATE,,,en,1.3
+More than eight years,More than eight years,DATE,,,en,1.3
+1.0,1.0,CARDINAL,,,en,1.3
+Dec. 10,Dec. 10,DATE,,,en,1.3
+4-5 inches,4-5 inches,QUANTITY,,,en,1.3
+Uranus,Uranus,PRODUCT,,,en,1.3
+another two nights,another two nights,DATE,,,en,1.3
+day five of the,day five of the,DATE,,,en,1.3
+the beginning of 2026,the beginning of 2026,DATE,,,en,1.3
+Betta,Betta,NORP,,,en,1.3
+1895 to 1930,1895 to 1930,DATE,,,en,1.3
 2.9 degrees Celsius,2.9 degrees Celsius,QUANTITY,,,en,1.3
+50%,50%,PERCENT,,,en,1.3
+the past few weeks,the past few weeks,DATE,,,en,1.3
+December day,December day,DATE,,,en,1.3
+more than a decade,more than a decade,DATE,,,en,1.3
+the days,the days,DATE,,,en,1.3
+Brazilian,Brazilian,NORP,,,en,1.3
+January 16,January 16,DATE,,,en,1.3
+the very first day of this year's,the very first day of this year's,DATE,,,en,1.3
+Nordic,Nordic,NORP,,,en,1.3
+the White House,the White House,FAC,,,en,1.3
+more than 60,more than 60,CARDINAL,,,en,1.3
+Jan 6,Jan 6,DATE,,,en,1.3
+this weeks,this weeks,DATE,,,en,1.3
+Norwegian,Norwegian,NORP,,,en,1.3
+the coming week,the coming week,DATE,,,en,1.3
+tenth,tenth,ORDINAL,,,en,1.3
+This Sunday,This Sunday,DATE,,,en,1.3
+"Some 140,000","Some 140,000",CARDINAL,,,en,1.3
+2010,2010,DATE,,,en,1.3
 24,24,CARDINAL,,,en,1.3
+Around 140,Around 140,CARDINAL,,,en,1.3
+Orly airport,Orly airport,FAC,,,en,1.3
+Sweater Weather,Sweater Weather,WORK_OF_ART,,,en,1.3
+9.49,9.49,MONEY,,,en,1.3
+16,16,CARDINAL,,,en,1.3
+Thursday Night Football,Thursday Night Football,WORK_OF_ART,,,en,1.3
+2 pounds,2 pounds,QUANTITY,,,en,1.3
+"More than 9,000","More than 9,000",CARDINAL,,,en,1.3
+below 65°F,below 65°F,QUANTITY,,,en,1.3
+Approximately $3.6 billion,Approximately $3.6 billion,MONEY,,,en,1.3
 Nazis,Nazis,NORP,,,en,1.3
+99.99%,99.99%,PERCENT,,,en,1.3
+This year,This year,DATE,,,en,1.3
+14.99,14.99,MONEY,,,en,1.3
+next Thursday,next Thursday,DATE,,,en,1.3
+the end of 2025,the end of 2025,DATE,,,en,1.3
+25,25,CARDINAL,,,en,1.3
+2014,2014,DATE,,,en,1.3
+Pakistani,Pakistani,NORP,,,en,1.3
+128,128,CARDINAL,,,en,1.3
+twice a year,twice a year,DATE,,,en,1.3
+New Year’s,New Year’s,EVENT,,,en,1.3
+a few years ago,a few years ago,DATE,,,en,1.3
+a few months old,a few months old,DATE,,,en,1.3
 $3.38-$3.78,$3.38-$3.78,MONEY,,,en,1.3
-The Day After,The Day After,DATE,,,en,1.2
-late nights,late nights,DATE,,,en,1.2
-Three,Three,CARDINAL,,,en,1.2
-1/18,1/18,CARDINAL,,,en,1.2
-a holiday week,a holiday week,DATE,,,en,1.2
-"4,600 feet","4,600 feet",QUANTITY,,,en,1.2
-later this week,later this week,DATE,,,en,1.2
-nights,nights,TIME,,,en,1.2
-months,months,DATE,,,en,1.2
-roughly two percent,roughly two percent,PERCENT,,,en,1.2
+Some 200 million,Some 200 million,CARDINAL,,,en,1.3
+Desi,Desi,NORP,,,en,1.3
+3.3oz,3.3oz,QUANTITY,,,en,1.3
+just 12 months,just 12 months,DATE,,,en,1.3
+annually,annually,DATE,,,en,1.3
+This Year,This Year,DATE,,,en,1.3
+10.2 degrees Celsius,10.2 degrees Celsius,QUANTITY,,,en,1.3
+Less than a month,Less than a month,DATE,,,en,1.3
+ten,ten,CARDINAL,,,en,1.3
+The nights,The nights,DATE,,,en,1.3
+Holocaust,Holocaust,EVENT,,,en,1.3
+mid-December,mid-December,DATE,,,en,1.3
+Tiny House Pro,Tiny House Pro,PRODUCT,,,en,1.3
+"More than 8,000","More than 8,000",CARDINAL,,,en,1.3
+This Cute AI Robot Just Turned Your Car Into,This Cute AI Robot Just Turned Your Car Into,LAW,,,en,1.3
 December 4,December 4,DATE,,,en,1.2
-The Civil War’s,The Civil War’s,EVENT,,,en,1.2
-Cold Moon,Cold Moon,WORK_OF_ART,,,en,1.2
-Bloodiest Battles,Bloodiest Battles,WORK_OF_ART,,,en,1.2
-the Civil War,the Civil War,EVENT,,,en,1.2
-fourth,fourth,ORDINAL,,,en,1.2
-Dec. 5,Dec. 5,DATE,,,en,1.2
+late nights,late nights,DATE,,,en,1.2
+1/18,1/18,CARDINAL,,,en,1.2
+Three,Three,CARDINAL,,,en,1.2
 the new year,the new year,DATE,,,en,1.2
+Dec. 5,Dec. 5,DATE,,,en,1.2
+nights,nights,TIME,,,en,1.2
 Cold War,Cold War,EVENT,,,en,1.2
+the Civil War,the Civil War,EVENT,,,en,1.2
+"4,600 feet","4,600 feet",QUANTITY,,,en,1.2
+Bloodiest Battles,Bloodiest Battles,WORK_OF_ART,,,en,1.2
+The Day After,The Day After,DATE,,,en,1.2
+Cold Moon,Cold Moon,WORK_OF_ART,,,en,1.2
+The Civil War’s,The Civil War’s,EVENT,,,en,1.2
+Winter Storm Fern,Winter Storm Fern,WORK_OF_ART,,,en,1.2
+4-Pack,4-Pack,CARDINAL,,,en,1.2
+Cleared Out,Cleared Out,WORK_OF_ART,,,en,1.2
+New Yorkers,New Yorkers,NORP,,,en,1.2
 late night,late night,TIME,,,en,1.2
+a holiday week,a holiday week,DATE,,,en,1.2
+months,months,DATE,,,en,1.2
+fourth,fourth,ORDINAL,,,en,1.2
+Slav,Slav,NORP,,,en,1.2
+roughly two percent,roughly two percent,PERCENT,,,en,1.2
+2.4 percent,2.4 percent,PERCENT,,,en,1.0
+seven-day-old,seven-day-old,DATE,,,en,1.0
+the next two to three days,the next two to three days,DATE,,,en,1.0
+more than two years,more than two years,DATE,,,en,1.0
+"January 13, 2026","January 13, 2026",DATE,,,en,1.0
+two days,two days,DATE,,,en,1.0
+3 degrees,3 degrees,QUANTITY,,,en,1.0
+two nights ago,two nights ago,DATE,,,en,1.0
+January 15th,January 15th,DATE,,,en,1.0
+2:08:01,2:08:01,CARDINAL,,,en,1.0
+"tomorrow, Sunday","tomorrow, Sunday",DATE,,,en,1.0
+Monday morning,Monday morning,TIME,,,en,1.0
+21:00 on Sunday,21:00 on Sunday,TIME,,,en,1.0
+21:00 GMT,21:00 GMT,TIME,,,en,1.0
+late Monday,late Monday,DATE,,,en,1.0
+Moder,Moder,NORP,,,en,1.0
+Nearly 20 per cent,Nearly 20 per cent,MONEY,,,en,1.0
+11C,11C,CARDINAL,,,en,1.0
+last summer,last summer,DATE,,,en,1.0
+Read Full Article,Read Full Article,LAW,,,en,1.0
+11-01-26,11-01-26,DATE,,,en,1.0
+Web Directions Summit 2025,Web Directions Summit 2025,EVENT,,,en,1.0
+Jan. 24,Jan. 24,DATE,,,en,1.0
+up to 15 kilometres per hour,up to 15 kilometres per hour,QUANTITY,,,en,1.0
+1979,1979,DATE,,,en,1.0
+36.6,36.6,CARDINAL,,,en,1.0
+12C,12C,CARDINAL,,,en,1.0
+billions,billions,CARDINAL,,,en,1.0
+the eighth year in a row,the eighth year in a row,DATE,,,en,1.0
+13C,13C,CARDINAL,,,en,1.0
+41.85802928,41.85802928,CARDINAL,,,en,1.0
+below 3 degrees,below 3 degrees,QUANTITY,,,en,1.0
++4063 chars,+4063 chars,WORK_OF_ART,,,en,1.0
+"January 10, 2026","January 10, 2026",DATE,,,en,1.0
+the afternoon and evening,the afternoon and evening,TIME,,,en,1.0
+earlier in the season,earlier in the season,DATE,,,en,1.0
+Antrim Castle Gardens,Antrim Castle Gardens,FAC,,,en,1.0
+Nine,Nine,CARDINAL,,,en,1.0
+2025/26,2025/26,FAC,,,en,1.0
+The Psychology of People Who Love Cats,The Psychology of People Who Love Cats,WORK_OF_ART,,,en,1.0
+Democrats,Democrats,NORP,,,en,1.0
+three minutes,three minutes,TIME,,,en,1.0
+Schipol Airport,Schipol Airport,FAC,,,en,1.0
+Charles de Gaulle Airport,Charles de Gaulle Airport,FAC,,,en,1.0
+the Bay Are,the Bay Are,FAC,,,en,1.0
+3.0,3.0,CARDINAL,,,en,1.0
+Off Grid Trailers Pando 3.0,Off Grid Trailers Pando 3.0,EVENT,,,en,1.0
+2006,2006,DATE,,,en,1.0
+294303,294303,CARDINAL,,,en,1.0
 2012,2012,DATE,,,en,1.0
-10.2,10.2,CARDINAL,,,en,1.0
-"Monday, Dec. 29","Monday, Dec. 29",DATE,,,en,1.0
-A few days,A few days,DATE,,,en,1.0
 the Grotte à Hominidés,the Grotte à Hominidés,PRODUCT,,,en,1.0
 around 773 thousand years ago,around 773 thousand years ago,DATE,,,en,1.0
-First Cold War,First Cold War,EVENT,,,en,1.0
-1930s,1930s,DATE,,,en,1.0
-the 1920s,the 1920s,DATE,,,en,1.0
-3.0,3.0,CARDINAL,,,en,1.0
 1994,1994,DATE,,,en,1.0
-January 5,January 5,DATE,,,en,1.0
-Bengal Weather Update,Bengal Weather Update,WORK_OF_ART,,,en,1.0
-Christmas Day,Christmas Day,DATE,,,en,1.0
-Bomb Cyclone,Bomb Cyclone,WORK_OF_ART,,,en,1.0
-CES 2026,CES 2026,EVENT,,,en,1.0
-Unleashes Chaos on Millions of Americans From Michigan,Unleashes Chaos on Millions of Americans From Michigan,WORK_OF_ART,,,en,1.0
 3a,3a,CARDINAL,,,en,1.0
-Omen,Omen,PRODUCT,,,en,1.0
 1b,1b,CARDINAL,,,en,1.0
-Arctic Cold,Arctic Cold,PRODUCT,,,en,1.0
-The end of 2025,The end of 2025,DATE,,,en,1.0
-Winter Storm Ezra,Winter Storm Ezra,WORK_OF_ART,,,en,1.0
-29 December 2025,29 December 2025,DATE,,,en,1.0
-almost a century,almost a century,DATE,,,en,1.0
-80th,80th,ORDINAL,,,en,1.0
-Nazi,Nazi,NORP,,,en,1.0
-Insurrectionists,Insurrectionists,NORP,,,en,1.0
-the first week of 2026,the first week of 2026,DATE,,,en,1.0
-next weekend,next weekend,DATE,,,en,1.0
-the Bay Are,the Bay Are,FAC,,,en,1.0
-Frosty,Frosty,WORK_OF_ART,,,en,1.0
-New Years Day 2026,New Years Day 2026,EVENT,,,en,1.0
-bay 9/10,bay 9/10,FAC,,,en,1.0
-6°,6°,QUANTITY,,,en,1.0
-Off Grid Trailers Pando 3.0,Off Grid Trailers Pando 3.0,EVENT,,,en,1.0
-three minutes,three minutes,TIME,,,en,1.0
-Friday night,Friday night,TIME,,,en,1.0
-Prairies,Prairies,FAC,,,en,1.0
-+14810,+14810,NORP,,,en,1.0
-New Year's Day,New Year's Day,EVENT,,,en,1.0
-+3175,+3175,NORP,,,en,1.0
-Democrats,Democrats,NORP,,,en,1.0
-New Year’s Day,New Year’s Day,EVENT,,,en,1.0
-294303,294303,CARDINAL,,,en,1.0
-The Psychology of People Who Love Cats,The Psychology of People Who Love Cats,WORK_OF_ART,,,en,1.0
-a full 24 hours,a full 24 hours,TIME,,,en,1.0
-Nine,Nine,CARDINAL,,,en,1.0
-100th,100th,ORDINAL,,,en,1.0
-Antrim Castle Gardens,Antrim Castle Gardens,FAC,,,en,1.0
-10:00 GMT,10:00 GMT,TIME,,,en,1.0
-World War Two,World War Two,EVENT,,,en,1.0
-Bengal,Bengal,PRODUCT,,,en,1.0
-+1534,+1534,NORP,,,en,1.0
-12/31/2025,12/31/2025,DATE,,,en,1.0
-about 50,about 50,CARDINAL,,,en,1.0
-6.4 degrees Celsius,6.4 degrees Celsius,QUANTITY,,,en,1.0
-the year 2026,the year 2026,DATE,,,en,1.0
-December 31,December 31,DATE,,,en,1.0
-mid-October,mid-October,DATE,,,en,1.0
-6 degrees,6 degrees,QUANTITY,,,en,1.0
-Half,Half,CARDINAL,,,en,1.0
-Fresh Plaza,Fresh Plaza,FAC,,,en,1.0
-Kamrup Metro,Kamrup Metro,FAC,,,en,1.0
-20% to 40%,20% to 40%,PERCENT,,,en,1.0
-68.9%,68.9%,PERCENT,,,en,1.0
-2022,2022,DATE,,,en,1.0
-the days ahead,the days ahead,DATE,,,en,1.0
-Ecclesiastes,Ecclesiastes,PRODUCT,,,en,1.0
-The first 162 days,The first 162 days,DATE,,,en,1.0
-Wager,Wager,PRODUCT,,,en,1.0
-Germanic,Germanic,LANGUAGE,,,en,1.0
-More than 210 million,More than 210 million,CARDINAL,,,en,1.0
-The new year,The new year,DATE,,,en,1.0
-Infinity War,Infinity War,EVENT,,,en,1.0
-1.99,1.99,MONEY,,,en,1.0
-40 mph,40 mph,QUANTITY,,,en,1.0
-Guwahati,Guwahati,EVENT,-0.05405405405405405,0.18018018018018017,en,1.0
-766 days,766 days,DATE,,,en,1.0
-4 year old,4 year old,DATE,,,en,1.0
-HOTTEST DECEMBER DAY,HOTTEST DECEMBER DAY,DATE,,,en,1.0
-Winter Vacations 2026,Winter Vacations 2026,DATE,,,en,1.0
-another week,another week,DATE,,,en,1.0
 +20552 chars,+20552 chars,WORK_OF_ART,,,en,1.0
-recent decades,recent decades,DATE,,,en,1.0
-"Friday, Jan. 23","Friday, Jan. 23",DATE,,,en,1.0
-the driest winter months,the driest winter months,DATE,,,en,1.0
-Winter holidays,Winter holidays,DATE,,,en,1.0
-January 7,January 7,DATE,,,en,1.0
-coldest night of 2025,coldest night of 2025,TIME,,,en,1.0
-Evia,Evia,PRODUCT,-0.08571428571428572,0.5071428571428572,en,1.0
-winter holidays,winter holidays,DATE,,,en,1.0
-New Year's,New Year's,EVENT,,,en,1.0
-Dec 31,Dec 31,DATE,,,en,1.0
-"December 31, 2025","December 31, 2025",DATE,,,en,1.0
-2026 lunar calendar,2026 lunar calendar,DATE,,,en,1.0
-14-18%,14-18%,PERCENT,,,en,1.0
-50 years,50 years,DATE,,,en,1.0
-yearly,yearly,DATE,,,en,1.0
+BLASTp,BLASTp,PRODUCT,,,en,1.0
+"Jan. 06, 2026 (GLOBE NEWSWIRE)","Jan. 06, 2026 (GLOBE NEWSWIRE)",DATE,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
+10:00 GMT,10:00 GMT,TIME,,,en,1.0
+What To Put In A Wild Hedgehog House:,What To Put In A Wild Hedgehog House:,WORK_OF_ART,,,en,1.0
+the past fifteen years,the past fifteen years,DATE,,,en,1.0
+Bengal,Bengal,PRODUCT,,,en,1.0
+Bonfire Night,Bonfire Night,WORK_OF_ART,,,en,1.0
+the Mangata Developments Stadium,the Mangata Developments Stadium,FAC,,,en,1.0
+the week of Jan. 5,the week of Jan. 5,DATE,,,en,1.0
+Indore,Indore,NORP,-0.3,0.95,en,1.0
+eleven,eleven,CARDINAL,,,en,1.0
 a muted year,a muted year,DATE,,,en,1.0
 late-December,late-December,DATE,,,en,1.0
-Feb.,Feb.,DATE,,,en,1.0
 a year,a year,DATE,,,en,1.0
-Three Hottest Years,Three Hottest Years,DATE,,,en,1.0
-Lake Lugano,Lake Lugano,FAC,0.125,0.21666666666666667,en,1.0
 African,African,NORP,,,en,1.0
 34.1749°,34.1749°,QUANTITY,,,en,1.0
 "1,140m","1,140m",QUANTITY,,,en,1.0
 "500 to 2,000","500 to 2,000",CARDINAL,,,en,1.0
-a weekend,a weekend,DATE,,,en,1.0
-20s overnight,20s overnight,TIME,,,en,1.0
+January 2022,January 2022,DATE,,,en,1.0
 early this week,early this week,DATE,,,en,1.0
 Last year,Last year,DATE,,,en,1.0
 Only 2023,Only 2023,CARDINAL,,,en,1.0
 warmer than 2025,warmer than 2025,DATE,,,en,1.0
-Dec. 27,Dec. 27,DATE,,,en,1.0
-74,74,CARDINAL,,,en,1.0
-eleven,eleven,CARDINAL,,,en,1.0
-Indore,Indore,NORP,-0.3,0.95,en,1.0
-+4063 chars,+4063 chars,WORK_OF_ART,,,en,1.0
-"2025 - - 
-","2025 - - 
-",DATE,,,en,1.0
-other month,other month,DATE,,,en,1.0
-over 170 million,over 170 million,CARDINAL,,,en,1.0
-the first weekend of 2026,the first weekend of 2026,DATE,,,en,1.0
-2025/26,2025/26,FAC,,,en,1.0
-earlier in the season,earlier in the season,DATE,,,en,1.0
-What To Put In A Wild Hedgehog House:,What To Put In A Wild Hedgehog House:,WORK_OF_ART,,,en,1.0
-Dec. 29,Dec. 29,DATE,,,en,1.0
-11:45 a.m.,11:45 a.m.,TIME,,,en,1.0
-early November,early November,DATE,,,en,1.0
-Bonfire Night,Bonfire Night,WORK_OF_ART,,,en,1.0
-the Mangata Developments Stadium,the Mangata Developments Stadium,FAC,,,en,1.0
-2025 -  ,2025 -  ,DATE,,,en,1.0
-Dec.  29,Dec.  29,DATE,,,en,1.0
-the week of Jan. 5,the week of Jan. 5,DATE,,,en,1.0
-no fewer than a dozen,no fewer than a dozen,CARDINAL,,,en,1.0
-Decembers,Decembers,NORP,,,en,1.0
-"Jan. 20, 2026 (GLOBE NEWSWIRE) --","Jan. 20, 2026 (GLOBE NEWSWIRE) --",DATE,,,en,1.0
-BLASTp,BLASTp,PRODUCT,,,en,1.0
-Marriott Center,Marriott Center,FAC,,,en,1.0
-Jan 15,Jan 15,DATE,,,en,1.0
-2026-01-16,2026-01-16,DATE,,,en,1.0
-150,150,CARDINAL,,,en,1.0
-five minutes,five minutes,TIME,,,en,1.0
-"Wednesday, Jan. 21, 2026","Wednesday, Jan. 21, 2026",DATE,,,en,1.0
-At least 5,At least 5,CARDINAL,,,en,1.0
-sixty billion dollars,sixty billion dollars,MONEY,,,en,1.0
-forty-five kilometers,forty-five kilometers,QUANTITY,,,en,1.0
-"2,570","2,570",CARDINAL,,,en,1.0
-1957,1957,DATE,,,en,1.0
-Sputnik 2,Sputnik 2,FAC,,,en,1.0
-"November 3, 1957","November 3, 1957",DATE,,,en,1.0
-the second week of the year,the second week of the year,DATE,,,en,1.0
-January 9,January 9,DATE,,,en,1.0
-January 13,January 13,DATE,,,en,1.0
-at least 45,at least 45,CARDINAL,,,en,1.0
-only 8%,only 8%,PERCENT,,,en,1.0
-An estimated 100 million,An estimated 100 million,CARDINAL,,,en,1.0
-Nineteen,Nineteen,CARDINAL,,,en,1.0
-91,91,CARDINAL,,,en,1.0
-Sunday afternoon,Sunday afternoon,TIME,,,en,1.0
-100 million,100 million,CARDINAL,,,en,1.0
-WINTERS,WINTERS,DATE,,,en,1.0
-"Jan 15, 2026","Jan 15, 2026",DATE,,,en,1.0
-Jan 16,Jan 16,DATE,,,en,1.0
-the fifth straight day,the fifth straight day,DATE,,,en,1.0
-0.2 degrees Celsius,0.2 degrees Celsius,QUANTITY,,,en,1.0
-the early hours of January 15th,the early hours of January 15th,TIME,,,en,1.0
-Jan 14,Jan 14,DATE,,,en,1.0
-K3,K3,PRODUCT,,,en,1.0
-"News On Japan) -
- ","News On Japan) -
- ",WORK_OF_ART,,,en,1.0
-the colder months,the colder months,DATE,,,en,1.0
-winter blues,winter blues,WORK_OF_ART,,,en,1.0
-late October,late October,DATE,,,en,1.0
-the fourth consecutive day,the fourth consecutive day,DATE,,,en,1.0
-"January 7, 2013","January 7, 2013",DATE,,,en,1.0
-2.6 degrees Celsius,2.6 degrees Celsius,QUANTITY,,,en,1.0
-warmer days,warmer days,DATE,,,en,1.0
-2.9 degrees,2.9 degrees,QUANTITY,,,en,1.0
-"SpacemiT K3 motherboard
-","SpacemiT K3 motherboard
-",PRODUCT,,,en,1.0
-+4426 chars,+4426 chars,WORK_OF_ART,,,en,1.0
-Saudi,Saudi,NORP,,,en,1.0
-2.5 GHz,2.5 GHz,QUANTITY,,,en,1.0
-95 m,95 m,QUANTITY,,,en,1.0
-The Arc Raiders,The Arc Raiders,WORK_OF_ART,,,en,1.0
-0.8 degrees Celsius,0.8 degrees Celsius,QUANTITY,,,en,1.0
-The Perfect Storm,The Perfect Storm,WORK_OF_ART,,,en,1.0
-Afghan,Afghan,NORP,,,en,1.0
-the White House,the White House,FAC,,,en,1.0
-+9665 chars,+9665 chars,WORK_OF_ART,,,en,1.0
-the Marriott Center,the Marriott Center,FAC,,,en,1.0
-2006,2006,DATE,,,en,1.0
-furious week,furious week,DATE,,,en,1.0
-the upcoming weekend,the upcoming weekend,DATE,,,en,1.0
-nearly 30,nearly 30,CARDINAL,,,en,1.0
-489,489,CARDINAL,,,en,1.0
-12 degrees,12 degrees,QUANTITY,,,en,1.0
-463,463,CARDINAL,,,en,1.0
-476,476,CARDINAL,,,en,1.0
-the beginning of the week,the beginning of the week,DATE,,,en,1.0
-midweek,midweek,DATE,,,en,1.0
-48,48,CARDINAL,,,en,1.0
-+1747,+1747,NORP,,,en,1.0
-North Indian,North Indian,NORP,,,en,1.0
-at least Sunday evening,at least Sunday evening,TIME,,,en,1.0
-418,418,CARDINAL,,,en,1.0
-Indira Gandhi International Airport,Indira Gandhi International Airport,FAC,,,en,1.0
-+2739,+2739,NORP,,,en,1.0
-the age of 19,the age of 19,DATE,,,en,1.0
-minus 1.2 degrees Celsius,minus 1.2 degrees Celsius,QUANTITY,,,en,1.0
-$4 billion,$4 billion,MONEY,,,en,1.0
-the day Saturday,the day Saturday,DATE,,,en,1.0
-US Catholic,US Catholic,NORP,,,en,1.0
-Catholic,Catholic,NORP,,,en,1.0
-Jan. 25,Jan. 25,DATE,,,en,1.0
-"Jan. 20, 2026 (GLOBE NEWSWIRE) —","Jan. 20, 2026 (GLOBE NEWSWIRE) —",DATE,,,en,1.0
-the last couple of decades or so,the last couple of decades or so,DATE,,,en,1.0
-Asian,Asian,NORP,,,en,1.0
-Eight,Eight,CARDINAL,,,en,1.0
-around 200km,around 200km,QUANTITY,,,en,1.0
-just a week ago,just a week ago,DATE,,,en,1.0
-all winter,all winter,DATE,,,en,1.0
-five days,five days,DATE,,,en,1.0
-1/18-1/24,1/18-1/24,CARDINAL,,,en,1.0
-Salamander Resilience in Freezing Climates,Salamander Resilience in Freezing Climates,WORK_OF_ART,,,en,1.0
-Sixty-eight years,Sixty-eight years,DATE,,,en,1.0
-age 68,age 68,DATE,,,en,1.0
-101927,101927,DATE,,,en,1.0
-Indians,Indians,NORP,,,en,1.0
-winter night,winter night,TIME,,,en,1.0
-125 miles,125 miles,QUANTITY,,,en,1.0
-International Polar Year,International Polar Year,EVENT,,,en,1.0
-Indira Gandhi International,Indira Gandhi International,FAC,,,en,1.0
-about 30 degrees,about 30 degrees,QUANTITY,,,en,1.0
-the next several days,the next several days,DATE,,,en,1.0
-Frostlines,Frostlines,WORK_OF_ART,,,en,1.0
-nearly 160 million,nearly 160 million,CARDINAL,,,en,1.0
-a full day,a full day,DATE,,,en,1.0
-Explorers,Explorers,PRODUCT,,,en,1.0
-a frigid weekend,a frigid weekend,DATE,,,en,1.0
-Winter Storm Guide:,Winter Storm Guide:,WORK_OF_ART,,,en,1.0
-2007-2008,2007-2008,DATE,,,en,1.0
-up to 2.5 GHz,up to 2.5 GHz,QUANTITY,,,en,1.0
-13241333,13241333,DATE,,,en,1.0
-"above 2,000 feet","above 2,000 feet",QUANTITY,,,en,1.0
-2 degrees below zero,2 degrees below zero,QUANTITY,,,en,1.0
-Schiphol Airport,Schiphol Airport,FAC,,,en,1.0
-+2398 chars,+2398 chars,WORK_OF_ART,,,en,1.0
-next summer,next summer,DATE,,,en,1.0
-Winter 2026,Winter 2026,DATE,,,en,1.0
-two weeks,two weeks,DATE,,,en,1.0
-Some 160 million,Some 160 million,CARDINAL,,,en,1.0
-Chironomidae,Chironomidae,NORP,,,en,1.0
++1534,+1534,NORP,,,en,1.0
+Omen,Omen,PRODUCT,,,en,1.0
+CES 2026,CES 2026,EVENT,,,en,1.0
+January 5,January 5,DATE,,,en,1.0
+10.2,10.2,CARDINAL,,,en,1.0
+Bengal Weather Update,Bengal Weather Update,WORK_OF_ART,,,en,1.0
+10.2 degree Celsius,10.2 degree Celsius,QUANTITY,,,en,1.0
+the last 15 years,the last 15 years,DATE,,,en,1.0
+Winter months,Winter months,DATE,,,en,1.0
 "Introduction
 ","Introduction
 ",WORK_OF_ART,,,en,1.0
@@ -638,7 +525,6 @@ more than half,more than half,CARDINAL,,,en,1.0
 ","Save my User ID and Password
 ",WORK_OF_ART,,,en,1.0
 the chilly winters,the chilly winters,DATE,,,en,1.0
-About 124,About 124,CARDINAL,,,en,1.0
 around 5 degrees Celsius,around 5 degrees Celsius,QUANTITY,,,en,1.0
 the Indo-Gangetic Plain,the Indo-Gangetic Plain,FAC,,,en,1.0
 early January 2026,early January 2026,DATE,,,en,1.0
@@ -649,22 +535,20 @@ Last week,Last week,DATE,,,en,1.0
 Bring A Trailer,Bring A Trailer,WORK_OF_ART,,,en,1.0
 1.5 degree Celsius,1.5 degree Celsius,QUANTITY,,,en,1.0
 1.5 degrees Celsius,1.5 degrees Celsius,QUANTITY,,,en,1.0
-More than 700,More than 700,CARDINAL,,,en,1.0
-"300,000","300,000",MONEY,,,en,1.0
-between 11 and 15 degrees Celsius,between 11 and 15 degrees Celsius,CARDINAL,,,en,1.0
-at least 180 million,at least 180 million,CARDINAL,,,en,1.0
-"Jan. 06, 2026 (GLOBE NEWSWIRE)","Jan. 06, 2026 (GLOBE NEWSWIRE)",DATE,,,en,1.0
-15 years,15 years,DATE,,,en,1.0
-10.2 degree Celsius,10.2 degree Celsius,QUANTITY,,,en,1.0
-the past fifteen years,the past fifteen years,DATE,,,en,1.0
-the last 15 years,the last 15 years,DATE,,,en,1.0
+1.5 degree,1.5 degree,QUANTITY,,,en,1.0
+Muslim,Muslim,NORP,,,en,1.0
+Earlier that day,Earlier that day,DATE,,,en,1.0
+an off-season,an off-season,DATE,,,en,1.0
+46,46,CARDINAL,,,en,1.0
+the past years,the past years,DATE,,,en,1.0
+"January 15, 2024","January 15, 2024",DATE,,,en,1.0
+3.3 degrees Celsius,3.3 degrees Celsius,QUANTITY,,,en,1.0
+2.7,2.7,CARDINAL,,,en,1.0
+Jan. 8,Jan. 8,DATE,,,en,1.0
+Chironomidae,Chironomidae,NORP,,,en,1.0
 Vostok Station,Vostok Station,FAC,,,en,1.0
-the roughly three months,the roughly three months,DATE,,,en,1.0
-a Cold Snap,a Cold Snap,WORK_OF_ART,,,en,1.0
-countrys,countrys,NORP,,,en,1.0
-more than 180 million,more than 180 million,CARDINAL,,,en,1.0
+two weeks,two weeks,DATE,,,en,1.0
 winter mon,winter mon,DATE,,,en,1.0
-"January 10, 2026","January 10, 2026",DATE,,,en,1.0
 the next three to five days,the next three to five days,DATE,,,en,1.0
 3.2 degrees Celsius,3.2 degrees Celsius,QUANTITY,,,en,1.0
 the next three-five days,the next three-five days,DATE,,,en,1.0
@@ -673,64 +557,324 @@ cold day,cold day,DATE,,,en,1.0
 morning hours,morning hours,TIME,,,en,1.0
 the next 5-7 days,the next 5-7 days,DATE,,,en,1.0
 +2367,+2367,NORP,,,en,1.0
+"above 2,000 feet","above 2,000 feet",QUANTITY,,,en,1.0
 Saudis,Saudis,NORP,,,en,1.0
 My Strange Addiction,My Strange Addiction,WORK_OF_ART,,,en,1.0
-1.5 degree,1.5 degree,QUANTITY,,,en,1.0
-Muslim,Muslim,NORP,,,en,1.0
-Earlier that day,Earlier that day,DATE,,,en,1.0
-36.6,36.6,CARDINAL,,,en,1.0
-late Monday,late Monday,DATE,,,en,1.0
-Moder,Moder,NORP,,,en,1.0
-Nearly 20 per cent,Nearly 20 per cent,MONEY,,,en,1.0
-last summer,last summer,DATE,,,en,1.0
-Read Full Article,Read Full Article,LAW,,,en,1.0
-Web Directions Summit 2025,Web Directions Summit 2025,EVENT,,,en,1.0
-1979,1979,DATE,,,en,1.0
-More than 400,More than 400,CARDINAL,,,en,1.0
-2:08:01,2:08:01,CARDINAL,,,en,1.0
-"more than 1,300","more than 1,300",CARDINAL,,,en,1.0
-the eighth year in a row,the eighth year in a row,DATE,,,en,1.0
-up to 15 kilometres per hour,up to 15 kilometres per hour,QUANTITY,,,en,1.0
-41.85802928,41.85802928,CARDINAL,,,en,1.0
-22/01/2026,22/01/2026,CARDINAL,,,en,1.0
-Jan. 24,Jan. 24,DATE,,,en,1.0
-| Date,| Date,DATE,,,en,1.0
-"January 13, 2026","January 13, 2026",DATE,,,en,1.0
-two days,two days,DATE,,,en,1.0
-the next two to three days,the next two to three days,DATE,,,en,1.0
-more than two years,more than two years,DATE,,,en,1.0
-2.4 percent,2.4 percent,PERCENT,,,en,1.0
+early November,early November,DATE,,,en,1.0
+between 11 and 15 degrees Celsius,between 11 and 15 degrees Celsius,CARDINAL,,,en,1.0
+"300,000","300,000",MONEY,,,en,1.0
+More than 700,More than 700,CARDINAL,,,en,1.0
+Schiphol Airport,Schiphol Airport,FAC,,,en,1.0
++2398 chars,+2398 chars,WORK_OF_ART,,,en,1.0
+2026-01-07,2026-01-07,DATE,,,en,1.0
+next summer,next summer,DATE,,,en,1.0
+5.9°,5.9°,QUANTITY,,,en,1.0
+Jan 8) morning,Jan 8) morning,DATE,,,en,1.0
+Winter 2026,Winter 2026,DATE,,,en,1.0
+2 degrees below zero,2 degrees below zero,QUANTITY,,,en,1.0
+Catholic,Catholic,NORP,,,en,1.0
+13241333,13241333,DATE,,,en,1.0
+at least 180 million,at least 180 million,CARDINAL,,,en,1.0
+next month,next month,DATE,,,en,1.0
+More than 180 million,More than 180 million,CARDINAL,,,en,1.0
+50s,50s,DATE,,,en,1.0
+"1,200Mbps","1,200Mbps",CARDINAL,,,en,1.0
+"more than 9,000","more than 9,000",CARDINAL,,,en,1.0
+5347,5347,CARDINAL,,,en,1.0
+"140,000","140,000",CARDINAL,,,en,1.0
+billion-dollar,billion-dollar,MONEY,,,en,1.0
+Ramapo Mountains,Ramapo Mountains,FAC,,,en,1.0
+1B,1B,MONEY,,,en,1.0
+Crocker-McMillin mansion,Crocker-McMillin mansion,FAC,,,en,1.0
+more than this weekend's,more than this weekend's,DATE,,,en,1.0
+March,March,DATE,,,en,1.0
+the middle of January,the middle of January,DATE,,,en,1.0
+the seven years,the seven years,DATE,,,en,1.0
+At Least 3,At Least 3,CARDINAL,,,en,1.0
+Yorkers,Yorkers,NORP,,,en,1.0
+At least 3,At least 3,CARDINAL,,,en,1.0
+Dem,Dem,NORP,,,en,1.0
+At least three,At least three,CARDINAL,,,en,1.0
+Democratic,Democratic,NORP,,,en,1.0
+Nearly a million,Nearly a million,CARDINAL,,,en,1.0
+"more than 10,000","more than 10,000",CARDINAL,,,en,1.0
+January 2014,January 2014,DATE,,,en,1.0
+the winter,the winter,DATE,,,en,1.0
+202,202,CARDINAL,,,en,1.0
+"2,000milelong","2,000milelong",CARDINAL,,,en,1.0
+The Weather Chann,The Weather Chann,WORK_OF_ART,,,en,1.0
+Up to two feet,Up to two feet,QUANTITY,,,en,1.0
+ICE Out,ICE Out,WORK_OF_ART,,,en,1.0
+the Minneapolis Airport,the Minneapolis Airport,FAC,,,en,1.0
+'The Muppet Show','The Muppet Show',WORK_OF_ART,,,en,1.0
+"Friday, Jan. 23","Friday, Jan. 23",DATE,,,en,1.0
+countrys,countrys,NORP,,,en,1.0
+the roughly three months,the roughly three months,DATE,,,en,1.0
+a Cold Snap,a Cold Snap,WORK_OF_ART,,,en,1.0
+Friday night,Friday night,TIME,,,en,1.0
+tens of millions,tens of millions,CARDINAL,,,en,1.0
+more than 160 million,more than 160 million,CARDINAL,,,en,1.0
+next Monday,next Monday,DATE,,,en,1.0
+Insurrectionists,Insurrectionists,NORP,,,en,1.0
+over 170 million,over 170 million,CARDINAL,,,en,1.0
+the days ahead,the days ahead,DATE,,,en,1.0
+113,113,CARDINAL,,,en,1.0
+4 year old,4 year old,DATE,,,en,1.0
+766 days,766 days,DATE,,,en,1.0
+Half,Half,CARDINAL,,,en,1.0
+1st,1st,ORDINAL,,,en,1.0
+More than 210 million,More than 210 million,CARDINAL,,,en,1.0
+Prairies,Prairies,FAC,-0.1923076923076923,0.5384615384615384,en,1.0
+Canadians,Canadians,NORP,,,en,1.0
+"8,000","8,000",CARDINAL,,,en,1.0
++4522,+4522,NORP,,,en,1.0
+"9,000","9,000",CARDINAL,,,en,1.0
+roughly 140 million,roughly 140 million,CARDINAL,,,en,1.0
++5124,+5124,NORP,,,en,1.0
+61,61,CARDINAL,,,en,1.0
+3 days,3 days,DATE,,,en,1.0
+Dozens,Dozens,CARDINAL,,,en,1.0
+the past three days,the past three days,DATE,,,en,1.0
+over 100,over 100,CARDINAL,,,en,1.0
+over one-fifth,over one-fifth,CARDINAL,,,en,1.0
+Envir,Envir,NORP,,,en,1.0
+the Oort Cloud,the Oort Cloud,FAC,,,en,1.0
+nearly $400,nearly $400,MONEY,,,en,1.0
+the weekend winter,the weekend winter,DATE,,,en,1.0
+more than three decades,more than three decades,DATE,,,en,1.0
+the previous weekend,the previous weekend,DATE,,,en,1.0
+into weekend,into weekend,DATE,,,en,1.0
+one week,one week,DATE,,,en,1.0
+"Jan. 24, 2026","Jan. 24, 2026",DATE,,,en,1.0
++4312,+4312,NORP,,,en,1.0
+between 1971 and 1987,between 1971 and 1987,DATE,,,en,1.0
+nearly 40 years,nearly 40 years,DATE,,,en,1.0
+Jan. 28,Jan. 28,DATE,,,en,1.0
+below zero,below zero,CARDINAL,,,en,1.0
+Jan 29,Jan 29,DATE,,,en,1.0
+January Cold,January Cold,DATE,,,en,1.0
+more than 20 years,more than 20 years,DATE,,,en,1.0
+minus 11.2 degrees Celsius,minus 11.2 degrees Celsius,QUANTITY,,,en,1.0
+more than 20,more than 20,CARDINAL,,,en,1.0
+early February,early February,DATE,,,en,1.0
+January 31 - February 3,January 31 - February 3,DATE,,,en,1.0
+the first three weeks,the first three weeks,DATE,,,en,1.0
+13 Years Ago,13 Years Ago,DATE,,,en,1.0
+10/10,10/10,CARDINAL,,,en,1.0
+Thriller Series Started & We Don’t Talk,Thriller Series Started & We Don’t Talk,EVENT,,,en,1.0
+2010s,2010s,DATE,,,en,1.0
+January to March,January to March,DATE,,,en,1.0
+… January to March,… January to March,DATE,,,en,1.0
+Winter |,Winter |,DATE,,,en,1.0
+Awards for Cold Atom Lab Team Members,Awards for Cold Atom Lab Team Members,WORK_OF_ART,,,en,1.0
+What Happens,What Happens,WORK_OF_ART,,,en,1.0
+Tens of millions,Tens of millions,CARDINAL,,,en,1.0
+9 months,9 months,DATE,,,en,1.0
+about $26 billion,about $26 billion,MONEY,,,en,1.0
+close to 122 degrees,close to 122 degrees,QUANTITY,,,en,1.0
+Mercy,Mercy,WORK_OF_ART,,,en,1.0
+A Cold Spell Froze Out the Box Office This Weekend,A Cold Spell Froze Out the Box Office This Weekend,WORK_OF_ART,,,en,1.0
+Can Get Worse,Can Get Worse,WORK_OF_ART,,,en,1.0
+five weekends,five weekends,DATE,,,en,1.0
+Winter Storm Leaves,Winter Storm Leaves,WORK_OF_ART,,,en,1.0
+"As many as 800,000","As many as 800,000",CARDINAL,,,en,1.0
+January 27,January 27,DATE,,,en,1.0
+just under two weeks,just under two weeks,DATE,,,en,1.0
+Monster Storm Disrupts Business,Monster Storm Disrupts Business,WORK_OF_ART,,,en,1.0
+Tens of Thousands,Tens of Thousands,CARDINAL,,,en,1.0
+Tens of thousands,Tens of thousands,CARDINAL,,,en,1.0
+120,120,CARDINAL,,,en,1.0
+122 degrees,122 degrees,QUANTITY,,,en,1.0
+January 26,January 26,DATE,,,en,1.0
+spring,spring,DATE,,,en,1.0
+250401,250401,DATE,,,en,1.0
+2016,2016,DATE,,,en,1.0
+16 Years,16 Years,DATE,,,en,1.0
+four years,four years,DATE,,,en,1.0
+This month,This month,DATE,,,en,1.0
+4:00 PM CSTEurope,4:00 PM CSTEurope,TIME,,,en,1.0
++5269,+5269,NORP,,,en,1.0
+"Jan. 25, 2026","Jan. 25, 2026",DATE,,,en,1.0
+more than a month,more than a month,DATE,,,en,1.0
+Eye Opener,Eye Opener,EVENT,,,en,1.0
+"You’re Still Coming To Work, Right","You’re Still Coming To Work, Right",WORK_OF_ART,,,en,1.0
+92,92,CARDINAL,,,en,1.0
+about winter,about winter,DATE,,,en,1.0
+more than 180 million,more than 180 million,CARDINAL,,,en,1.0
+2 weeks,2 weeks,DATE,,,en,1.0
+the early hours of January 15th,the early hours of January 15th,TIME,,,en,1.0
+as little as 10 minutes,as little as 10 minutes,QUANTITY,,,en,1.0
+the second week of the year,the second week of the year,DATE,,,en,1.0
+January 9,January 9,DATE,,,en,1.0
+January 13,January 13,DATE,,,en,1.0
+only 8%,only 8%,PERCENT,,,en,1.0
+91,91,CARDINAL,,,en,1.0
+Sunday afternoon,Sunday afternoon,TIME,,,en,1.0
+WINTERS,WINTERS,DATE,,,en,1.0
+mid-30s,mid-30s,CARDINAL,,,en,1.0
+Marriott Center,Marriott Center,FAC,,,en,1.0
+the Marriott Center,the Marriott Center,FAC,,,en,1.0
+furious week,furious week,DATE,,,en,1.0
+just a week ago,just a week ago,DATE,,,en,1.0
+all winter,all winter,DATE,,,en,1.0
+five days,five days,DATE,,,en,1.0
+1/18-1/24,1/18-1/24,CARDINAL,,,en,1.0
+Sixty-eight years,Sixty-eight years,DATE,,,en,1.0
+age 68,age 68,DATE,,,en,1.0
+101927,101927,DATE,,,en,1.0
+Indians,Indians,NORP,,,en,1.0
+around 200km,around 200km,QUANTITY,,,en,1.0
+125 miles,125 miles,QUANTITY,,,en,1.0
+Indira Gandhi International,Indira Gandhi International,FAC,,,en,1.0
+the next several days,the next several days,DATE,,,en,1.0
+"January 16, 2026","January 16, 2026",DATE,,,en,1.0
+Frostlines,Frostlines,WORK_OF_ART,,,en,1.0
+a full day,a full day,DATE,,,en,1.0
+Explorers,Explorers,PRODUCT,,,en,1.0
+2007-2008,2007-2008,DATE,,,en,1.0
+International Polar Year,International Polar Year,EVENT,,,en,1.0
+"November 3, 1957","November 3, 1957",DATE,,,en,1.0
+Sputnik 2,Sputnik 2,FAC,,,en,1.0
+1957,1957,DATE,,,en,1.0
+The Arc Raiders,The Arc Raiders,WORK_OF_ART,,,en,1.0
+Jan 14,Jan 14,DATE,,,en,1.0
+"News On Japan) -
+ ","News On Japan) -
+ ",WORK_OF_ART,,,en,1.0
+the colder months,the colder months,DATE,,,en,1.0
+winter blues,winter blues,WORK_OF_ART,,,en,1.0
+late October,late October,DATE,,,en,1.0
+the fourth consecutive day,the fourth consecutive day,DATE,,,en,1.0
+"January 7, 2013","January 7, 2013",DATE,,,en,1.0
+2.6 degrees Celsius,2.6 degrees Celsius,QUANTITY,,,en,1.0
+0.2 degrees Celsius,0.2 degrees Celsius,QUANTITY,,,en,1.0
+warmer days,warmer days,DATE,,,en,1.0
++4426 chars,+4426 chars,WORK_OF_ART,,,en,1.0
+Saudi,Saudi,NORP,,,en,1.0
+95 m,95 m,QUANTITY,,,en,1.0
+0.8 degrees Celsius,0.8 degrees Celsius,QUANTITY,,,en,1.0
+"2,570","2,570",CARDINAL,,,en,1.0
+The Perfect Storm,The Perfect Storm,WORK_OF_ART,,,en,1.0
+Afghan,Afghan,NORP,,,en,1.0
+2.9 degrees,2.9 degrees,QUANTITY,,,en,1.0
+the fifth straight day,the fifth straight day,DATE,,,en,1.0
+Jan 16,Jan 16,DATE,,,en,1.0
+"Jan 15, 2026","Jan 15, 2026",DATE,,,en,1.0
+Jan 15,Jan 15,DATE,,,en,1.0
+2026-01-16,2026-01-16,DATE,,,en,1.0
+150,150,CARDINAL,,,en,1.0
+five minutes,five minutes,TIME,,,en,1.0
+At least 5,At least 5,CARDINAL,,,en,1.0
+sixty billion dollars,sixty billion dollars,MONEY,,,en,1.0
+forty-five kilometers,forty-five kilometers,QUANTITY,,,en,1.0
+the last couple of decades or so,the last couple of decades or so,DATE,,,en,1.0
+489,489,CARDINAL,,,en,1.0
+463,463,CARDINAL,,,en,1.0
+De’Longhi,De’Longhi,DATE,,,en,1.0
+Winter Storm Guide:,Winter Storm Guide:,WORK_OF_ART,,,en,1.0
+a frigid weekend,a frigid weekend,DATE,,,en,1.0
+nearly 160 million,nearly 160 million,CARDINAL,,,en,1.0
+about 30 degrees,about 30 degrees,QUANTITY,,,en,1.0
+Salamander Resilience in Freezing Climates,Salamander Resilience in Freezing Climates,WORK_OF_ART,,,en,1.0
++9665 chars,+9665 chars,WORK_OF_ART,,,en,1.0
++4852,+4852,NORP,,,en,1.0
+100 million,100 million,CARDINAL,,,en,1.0
+Nineteen,Nineteen,CARDINAL,,,en,1.0
+An estimated 100 million,An estimated 100 million,CARDINAL,,,en,1.0
+more than 90 minutes,more than 90 minutes,TIME,,,en,1.0
+the hour,the hour,TIME,,,en,1.0
+"Wednesday, Jan. 21, 2026","Wednesday, Jan. 21, 2026",DATE,,,en,1.0
+2.5 GHz,2.5 GHz,QUANTITY,,,en,1.0
+nearly 30,nearly 30,CARDINAL,,,en,1.0
+"SpacemiT K3 motherboard
+","SpacemiT K3 motherboard
+",PRODUCT,,,en,1.0
+K3,K3,PRODUCT,,,en,1.0
+up to 2.5 GHz,up to 2.5 GHz,QUANTITY,,,en,1.0
 Telegra,Telegra,WORK_OF_ART,,,en,1.0
-Monday morning,Monday morning,TIME,,,en,1.0
+| Date,| Date,DATE,,,en,1.0
+22/01/2026,22/01/2026,CARDINAL,,,en,1.0
+"more than 1,300","more than 1,300",CARDINAL,,,en,1.0
 basketball weekend,basketball weekend,DATE,,,en,1.0
-an off-season,an off-season,DATE,,,en,1.0
-two nights ago,two nights ago,DATE,,,en,1.0
-46,46,CARDINAL,,,en,1.0
-the past years,the past years,DATE,,,en,1.0
-"January 15, 2024","January 15, 2024",DATE,,,en,1.0
-3.3 degrees Celsius,3.3 degrees Celsius,QUANTITY,,,en,1.0
-2.7,2.7,CARDINAL,,,en,1.0
-Winter months,Winter months,DATE,,,en,1.0
-the afternoon and evening,the afternoon and evening,TIME,,,en,1.0
-seven-day-old,seven-day-old,DATE,,,en,1.0
-Sundarbans,Sundarbans,NORP,,,en,1.0
 +5637,+5637,NORP,,,en,1.0
-"tomorrow, Sunday","tomorrow, Sunday",DATE,,,en,1.0
-billions,billions,CARDINAL,,,en,1.0
-13C,13C,CARDINAL,,,en,1.0
-12C,12C,CARDINAL,,,en,1.0
-11C,11C,CARDINAL,,,en,1.0
-21:00 GMT,21:00 GMT,TIME,,,en,1.0
-21:00 on Sunday,21:00 on Sunday,TIME,,,en,1.0
-January 15th,January 15th,DATE,,,en,1.0
-Ukrainians,Ukrainians,NORP,,,en,1.0
-11-01-26,11-01-26,DATE,,,en,1.0
-below 3 degrees,below 3 degrees,QUANTITY,,,en,1.0
-Deepest Gas Hydrate Discovered Teeming With Life Off Greenland,Deepest Gas Hydrate Discovered Teeming With Life Off Greenland,WORK_OF_ART,,,en,1.0
-3 degrees,3 degrees,QUANTITY,,,en,1.0
-7:52 AM,7:52 AM,TIME,,,en,1.0
-Sunday evening,Sunday evening,TIME,,,en,1.0
-More Energy in the System Means More Extreme Weather,More Energy in the System Means More Extreme Weather,WORK_OF_ART,,,en,1.0
+Sundarbans,Sundarbans,NORP,,,en,1.0
+About 124,About 124,CARDINAL,,,en,1.0
+Some 160 million,Some 160 million,CARDINAL,,,en,1.0
++1398,+1398,NORP,,,en,1.0
+the upcoming weekend,the upcoming weekend,DATE,,,en,1.0
+Card Games,Card Games,EVENT,,,en,1.0
+476,476,CARDINAL,,,en,1.0
+this Monday,this Monday,DATE,,,en,1.0
+the beginning of the week,the beginning of the week,DATE,,,en,1.0
+midweek,midweek,DATE,,,en,1.0
++1747,+1747,NORP,,,en,1.0
+North Indian,North Indian,NORP,,,en,1.0
+418,418,CARDINAL,,,en,1.0
+Indira Gandhi International Airport,Indira Gandhi International Airport,FAC,,,en,1.0
++2739,+2739,NORP,,,en,1.0
+the age of 19,the age of 19,DATE,,,en,1.0
+minus 1.2 degrees Celsius,minus 1.2 degrees Celsius,QUANTITY,,,en,1.0
+$4 billion,$4 billion,MONEY,,,en,1.0
+US Catholic,US Catholic,NORP,,,en,1.0
+"4,001 yuan","4,001 yuan",MONEY,,,en,1.0
+574,574,MONEY,,,en,1.0
+"3,998 yuan","3,998 yuan",MONEY,,,en,1.0
+12 degrees,12 degrees,QUANTITY,,,en,1.0
+573.70,573.70,MONEY,,,en,1.0
+4:00,4:00,TIME,,,en,1.0
+Last summer,Last summer,DATE,,,en,1.0
+"Jan. 20, 2026 (GLOBE NEWSWIRE) --","Jan. 20, 2026 (GLOBE NEWSWIRE) --",DATE,,,en,1.0
+"Jan. 20, 2026 (GLOBE NEWSWIRE) —","Jan. 20, 2026 (GLOBE NEWSWIRE) —",DATE,,,en,1.0
+Broadway,Broadway,FAC,,,en,1.0
+Good Night,Good Night,WORK_OF_ART,,,en,1.0
+Jan. 25,Jan. 25,DATE,,,en,1.0
+Some 350,Some 350,CARDINAL,,,en,1.0
+light-years,light-years,DATE,,,en,1.0
+the V1298 Tau,the V1298 Tau,PRODUCT,,,en,1.0
+the day Saturday,the day Saturday,DATE,,,en,1.0
+at least Sunday evening,at least Sunday evening,TIME,,,en,1.0
+the first weekend of 2026,the first weekend of 2026,DATE,,,en,1.0
+4:33,4:33,DATE,,,en,1.0
+Baby rescued […],Baby rescued […],WORK_OF_ART,,,en,1.0
+century-old,century-old,DATE,,,en,1.0
+6/10,6/10,CARDINAL,,,en,1.0
+the night of December 4,the night of December 4,TIME,,,en,1.0
+Every Batman Animated Series,Every Batman Animated Series,EVENT,,,en,1.0
+240,240,CARDINAL,,,en,1.0
+Cold Supermoon,Cold Supermoon,WORK_OF_ART,,,en,1.0
+the Cold Moon,the Cold Moon,FAC,,,en,1.0
+the years,the years,DATE,,,en,1.0
+One Day,One Day,DATE,,,en,1.0
+500 meters,500 meters,QUANTITY,,,en,1.0
+"2,000","2,000",MONEY,,,en,1.0
+18.99,18.99,MONEY,,,en,1.0
+Deep Dive,Deep Dive,WORK_OF_ART,,,en,1.0
+A Potential Challenger Approaching,A Potential Challenger Approaching,WORK_OF_ART,,,en,1.0
+Amazon Basics”,Amazon Basics”,WORK_OF_ART,,,en,1.0
+GB200,GB200,ORDINAL,,,en,1.0
+AWS,AWS,WORK_OF_ART,,,en,1.0
+centuries-old,centuries-old,DATE,,,en,1.0
+colder months,colder months,DATE,,,en,1.0
+"Around 620,000","Around 620,000",CARDINAL,,,en,1.0
+"620,000","620,000",CARDINAL,,,en,1.0
+Cold Harbor,Cold Harbor,FAC,,,en,1.0
+the spring of 1864,the spring of 1864,DATE,,,en,1.0
+almost exactly half the day,almost exactly half the day,DATE,,,en,1.0
+day two,day two,DATE,,,en,1.0
+nearly half,nearly half,CARDINAL,,,en,1.0
+43%,43%,PERCENT,,,en,1.0
+12/6/2025,12/6/2025,CARDINAL,,,en,1.0
+"3,500 years","3,500 years",DATE,,,en,1.0
+Galaxy S25,Galaxy S25,PRODUCT,,,en,1.0
+"more than 70,000","more than 70,000",CARDINAL,,,en,1.0
+2003,2003,DATE,,,en,1.0
+the first half of December,the first half of December,DATE,,,en,1.0
+a wild month,a wild month,DATE,,,en,1.0
+minus 4.4 degrees Celsius,minus 4.4 degrees Celsius,QUANTITY,,,en,1.0
+minus 6.6 degrees Celsius,minus 6.6 degrees Celsius,QUANTITY,,,en,1.0
+Ercot,Ercot,NORP,,,en,1.0
+"Nearly 8,000","Nearly 8,000",CARDINAL,,,en,1.0
+over eight inches,over eight inches,QUANTITY,,,en,1.0
 under winter,under winter,DATE,,,en,1.0
 21.3,21.3,CARDINAL,,,en,1.0
 all-day,all-day,DATE,,,en,1.0
@@ -739,8 +883,10 @@ all-day,all-day,DATE,,,en,1.0
 the Nest Le,the Nest Le,FAC,,,en,1.0
 Dec 3 onwards,Dec 3 onwards,DATE,,,en,1.0
 three-month,three-month,DATE,,,en,1.0
-a wild month,a wild month,DATE,,,en,1.0
 the next three,the next three,DATE,,,en,1.0
+"Grok
+iPhone 17","Grok
+iPhone 17",PRODUCT,,,en,1.0
 Zojila Pass,Zojila Pass,FAC,,,en,1.0
 the first week of December,the first week of December,DATE,,,en,1.0
 Most Extreme Cold on Earth,Most Extreme Cold on Earth,WORK_OF_ART,,,en,1.0
@@ -754,115 +900,86 @@ thousand,thousand,CARDINAL,,,en,1.0
 +5757,+5757,NORP,,,en,1.0
 the Herperduin nature reserve,the Herperduin nature reserve,FAC,,,en,1.0
 1984,1984,DATE,,,en,1.0
-"Grok
-iPhone 17","Grok
-iPhone 17",PRODUCT,,,en,1.0
-the first half of December,the first half of December,DATE,,,en,1.0
-over eight inches,over eight inches,QUANTITY,,,en,1.0
-"Nearly 8,000","Nearly 8,000",CARDINAL,,,en,1.0
-Ercot,Ercot,NORP,,,en,1.0
-Cold Weather Incoming,Cold Weather Incoming,WORK_OF_ART,,,en,1.0
-Tuesday night,Tuesday night,TIME,,,en,1.0
-the holiday weekend,the holiday weekend,DATE,,,en,1.0
-86,86,CARDINAL,,,en,1.0
-Peanuts,Peanuts,WORK_OF_ART,,,en,1.0
-"Nov. 24, 2022","Nov. 24, 2022",DATE,,,en,1.0
-Macys Thanksgiving parade,Macys Thanksgiving parade,FAC,,,en,1.0
-the Hard Rock Hotel Riviera Maya SDSU,the Hard Rock Hotel Riviera Maya SDSU,FAC,,,en,1.0
-10-6,10-6,CARDINAL,,,en,1.0
-"14 minutes, 12 seconds","14 minutes, 12 seconds",TIME,,,en,1.0
-the Hard Rock Hotel,the Hard Rock Hotel,FAC,,,en,1.0
-14 minutes,14 minutes,TIME,,,en,1.0
-These IKEA Hacks Are Seriously Warming,These IKEA Hacks Are Seriously Warming,WORK_OF_ART,,,en,1.0
-minus 6.6 degrees Celsius,minus 6.6 degrees Celsius,QUANTITY,,,en,1.0
-the Cold War,the Cold War,EVENT,,,en,1.0
-3.6B,3.6B,MONEY,,,en,1.0
-the National En… [,the National En… [,EVENT,,,en,1.0
-+1917 chars,+1917 chars,WORK_OF_ART,,,en,1.0
-19.99,19.99,MONEY,,,en,1.0
-Advertiser Disclosure: Many of the,Advertiser Disclosure: Many of the,WORK_OF_ART,,,en,1.0
-Gradle,Gradle,WORK_OF_ART,,,en,1.0
-5 million,5 million,CARDINAL,,,en,1.0
-more than 2000,more than 2000,CARDINAL,,,en,1.0
-Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.0
-minus 4.4 degrees Celsius,minus 4.4 degrees Celsius,QUANTITY,,,en,1.0
-2003,2003,DATE,,,en,1.0
-"more than 70,000","more than 70,000",CARDINAL,,,en,1.0
-6/10,6/10,CARDINAL,,,en,1.0
-the coldest day,the coldest day,DATE,,,en,1.0
-Galaxy S25,Galaxy S25,PRODUCT,,,en,1.0
 Rainy Sunday,Rainy Sunday,DATE,,,en,1.0
-century-old,century-old,DATE,,,en,1.0
 more than 100 years,more than 100 years,DATE,,,en,1.0
+more than 2000,more than 2000,CARDINAL,,,en,1.0
 three-year,three-year,DATE,,,en,1.0
++2959,+2959,NORP,,,en,1.0
+lignan,lignan,NORP,,,en,1.0
+87,87,CARDINAL,,,en,1.0
+204,204,CARDINAL,,,en,1.0
+19902019,19902019,CARDINAL,,,en,1.0
+122,122,CARDINAL,,,en,1.0
+"Thursday, December 11, 2025","Thursday, December 11, 2025",DATE,,,en,1.0
+Four,Four,CARDINAL,,,en,1.0
+1-3%,1-3%,PERCENT,,,en,1.0
+About 80%,About 80%,PERCENT,,,en,1.0
+59,59,CARDINAL,,,en,1.0
++2314 chars,+2314 chars,WORK_OF_ART,,,en,1.0
+2.5 inches,2.5 inches,QUANTITY,,,en,1.0
+early Sunday morning,early Sunday morning,TIME,,,en,1.0
+up to 50 cm,up to 50 cm,QUANTITY,,,en,1.0
+745,745,MONEY,,,en,1.0
+158,158,MONEY,,,en,1.0
+"1,550","1,550",MONEY,,,en,1.0
+390,390,MONEY,,,en,1.0
+Winter 2025,Winter 2025,DATE,,,en,1.0
+seasonal,seasonal,DATE,,,en,1.0
++5244,+5244,CARDINAL,,,en,1.0
+Creamsicle,Creamsicle,FAC,,,en,1.0
+30+ hours,30+ hours,TIME,,,en,1.0
++5307,+5307,NORP,,,en,1.0
+the Tractor Shed,the Tractor Shed,FAC,,,en,1.0
+24 Inches,24 Inches,QUANTITY,,,en,1.0
+Raider Deck,Raider Deck,PRODUCT,,,en,1.0
+eight degrees colder,eight degrees colder,QUANTITY,,,en,1.0
+Dec. 9 and the morning,Dec. 9 and the morning,DATE,,,en,1.0
+Dec. 9 and 10,Dec. 9 and 10,DATE,,,en,1.0
+winter |,winter |,DATE,,,en,1.0
+minus 2.4 degrees Celsius,minus 2.4 degrees Celsius,QUANTITY,,,en,1.0
 1965 to 1982,1965 to 1982,DATE,,,en,1.0
 below 10°F,below 10°F,QUANTITY,,,en,1.0
 December 9 to 14,December 9 to 14,DATE,,,en,1.0
 the second week of December,the second week of December,DATE,,,en,1.0
-week,week,DATE,,,en,1.0
 last winter,last winter,DATE,,,en,1.0
+the coldest day,the coldest day,DATE,,,en,1.0
 million years ago,million years ago,DATE,,,en,1.0
-12/6/2025,12/6/2025,CARDINAL,,,en,1.0
 Snowball Earth,Snowball Earth,WORK_OF_ART,,,en,1.0
 51,51,CARDINAL,,,en,1.0
 1992,1992,DATE,,,en,1.0
 +13009 chars,+13009 chars,WORK_OF_ART,,,en,1.0
 early winter,early winter,DATE,,,en,1.0
 may fall,may fall,DATE,,,en,1.0
-minus 2.4 degrees Celsius,minus 2.4 degrees Celsius,QUANTITY,,,en,1.0
 Puerto Rican,Puerto Rican,NORP,,,en,1.0
+millions of years,millions of years,DATE,,,en,1.0
 Super Bowl,Super Bowl,EVENT,,,en,1.0
-more than 60,more than 60,CARDINAL,,,en,1.0
 February day,February day,DATE,,,en,1.0
-"3,500 years","3,500 years",DATE,,,en,1.0
-43%,43%,PERCENT,,,en,1.0
-the night of December 4,the night of December 4,TIME,,,en,1.0
-A Potential Challenger Approaching,A Potential Challenger Approaching,WORK_OF_ART,,,en,1.0
-Every Batman Animated Series,Every Batman Animated Series,EVENT,,,en,1.0
-25,25,CARDINAL,,,en,1.0
-240,240,CARDINAL,,,en,1.0
-Cold Supermoon,Cold Supermoon,WORK_OF_ART,,,en,1.0
-the Cold Moon,the Cold Moon,FAC,,,en,1.0
-the years,the years,DATE,,,en,1.0
-One Day,One Day,DATE,,,en,1.0
-500 meters,500 meters,QUANTITY,,,en,1.0
-"2,000","2,000",MONEY,,,en,1.0
-18.99,18.99,MONEY,,,en,1.0
-Deep Dive,Deep Dive,WORK_OF_ART,,,en,1.0
-Amazon Basics”,Amazon Basics”,WORK_OF_ART,,,en,1.0
-nearly half,nearly half,CARDINAL,,,en,1.0
-GB200,GB200,ORDINAL,,,en,1.0
-AWS,AWS,WORK_OF_ART,,,en,1.0
-centuries-old,centuries-old,DATE,,,en,1.0
-colder months,colder months,DATE,,,en,1.0
-"Around 620,000","Around 620,000",CARDINAL,,,en,1.0
-"620,000","620,000",CARDINAL,,,en,1.0
-Cold Harbor,Cold Harbor,FAC,,,en,1.0
-the spring of 1864,the spring of 1864,DATE,,,en,1.0
-almost exactly half the day,almost exactly half the day,DATE,,,en,1.0
-day two,day two,DATE,,,en,1.0
-these days,these days,DATE,,,en,1.0
-Assembly Hall,Assembly Hall,FAC,,,en,1.0
-month-long,month-long,DATE,,,en,1.0
-+3170,+3170,NORP,,,en,1.0
-9.9 deg Celsius,9.9 deg Celsius,QUANTITY,,,en,1.0
-next weeks',next weeks',DATE,,,en,1.0
-+4569 chars,+4569 chars,WORK_OF_ART,,,en,1.0
-"June 1 to Nov. 30, 2025","June 1 to Nov. 30, 2025",DATE,,,en,1.0
-between August and October,between August and October,DATE,,,en,1.0
+Edmontonians,Edmontonians,NORP,,,en,1.0
+More Energy in the System Means More Extreme Weather,More Energy in the System Means More Extreme Weather,WORK_OF_ART,,,en,1.0
+New Map Condition,New Map Condition,LAW,,,en,1.0
+Arc Raiders,Arc Raiders,WORK_OF_ART,,,en,1.0
+"Cold Snap""","Cold Snap""",WORK_OF_ART,,,en,1.0
+Embark X,Embark X,LAW,,,en,1.0
+five years,five years,DATE,,,en,1.0
+December 9th,December 9th,DATE,,,en,1.0
+Their Nocturnal Habits House,Their Nocturnal Habits House,WORK_OF_ART,,,en,1.0
+Do House Sparrows Sleep at Night,Do House Sparrows Sleep at Night,WORK_OF_ART,,,en,1.0
+Their Nocturnal Habits,Their Nocturnal Habits,WORK_OF_ART,,,en,1.0
+Wednesday afternoon,Wednesday afternoon,TIME,,,en,1.0
+5 million,5 million,CARDINAL,,,en,1.0
+other month,other month,DATE,,,en,1.0
+mid-day,mid-day,DATE,,,en,1.0
 a few weeks,a few weeks,DATE,,,en,1.0
 hurricane season,hurricane season,DATE,,,en,1.0
 "Saturday, Nov. 8, 2025","Saturday, Nov. 8, 2025",DATE,,,en,1.0
 2-3 degrees Celsius,2-3 degrees Celsius,QUANTITY,,,en,1.0
-Celsius,Celsius,PRODUCT,,,en,1.0
 $1 trillion,$1 trillion,MONEY,,,en,1.0
 every Monday,every Monday,DATE,,,en,1.0
+9.9 deg Celsius,9.9 deg Celsius,QUANTITY,,,en,1.0
 9.9 degrees Celsius,9.9 degrees Celsius,QUANTITY,,,en,1.0
-988,988,CARDINAL,,,en,1.0
 November 12,November 12,DATE,,,en,1.0
 9.9 degrees,9.9 degrees,QUANTITY,,,en,1.0
 the 20s,the 20s,DATE,,,en,1.0
-+2441,+2441,NORP,,,en,1.0
 3 weeks,3 weeks,DATE,,,en,1.0
 2020,2020,DATE,,,en,1.0
 Biggest Power Spike,Biggest Power Spike,FAC,,,en,1.0
@@ -870,10 +987,21 @@ at least 1998,at least 1998,DATE,,,en,1.0
 7:30 AM,7:30 AM,TIME,,,en,1.0
 a pleasant weekend,a pleasant weekend,DATE,,,en,1.0
 13.7 °C,13.7 °C,MONEY,,,en,1.0
-+4223 chars,+4223 chars,WORK_OF_ART,,,en,1.0
-Australian,Australian,NORP,,,en,1.0
+12.7 °C,12.7 °C,MONEY,,,en,1.0
 The Local,The Local,FAC,,,en,1.0
-1997,1997,DATE,,,en,1.0
+The L,The L,FAC,,,en,1.0
+early next week,early next week,DATE,,,en,1.0
+10C,10C,DATE,,,en,1.0
+the next week,the next week,DATE,,,en,1.0
+11.2 degree C,11.2 degree C,MONEY,,,en,1.0
+Ghats,Ghats,FAC,,,en,1.0
+two consecutive days,two consecutive days,DATE,,,en,1.0
+"9°C, which is","9°C, which is",PERCENT,,,en,1.0
+4.5 degrees,4.5 degrees,QUANTITY,,,en,1.0
+between August and October,between August and October,DATE,,,en,1.0
+"June 1 to Nov. 30, 2025","June 1 to Nov. 30, 2025",DATE,,,en,1.0
++4569 chars,+4569 chars,WORK_OF_ART,,,en,1.0
+early Thursday,early Thursday,DATE,,,en,1.0
 18.8°,18.8°,MONEY,,,en,1.0
 View Entire Post,View Entire Post,WORK_OF_ART,,,en,1.0
 The Storm Prediction,The Storm Prediction,WORK_OF_ART,,,en,1.0
@@ -885,10 +1013,10 @@ Autumn week,Autumn week,DATE,,,en,1.0
 1024x1024px-,1024x1024px-,CARDINAL,,,en,1.0
 "85,000","85,000",CARDINAL,,,en,1.0
 "100,000","100,000",CARDINAL,,,en,1.0
+1997,1997,DATE,,,en,1.0
 2007,2007,DATE,,,en,1.0
-2025-11-06,2025-11-06,DATE,,,en,1.0
-early Thursday,early Thursday,DATE,,,en,1.0
 early Oct. 23,early Oct. 23,DATE,,,en,1.0
+next weeks',next weeks',DATE,,,en,1.0
 holiday weekend,holiday weekend,DATE,,,en,1.0
 90 degrees,90 degrees,QUANTITY,,,en,1.0
 the 40s by Thursday,the 40s by Thursday,DATE,,,en,1.0
@@ -898,51 +1026,49 @@ the next 24 hours,the next 24 hours,TIME,,,en,1.0
 the day before yesterday,the day before yesterday,DATE,,,en,1.0
 Appalachians,Appalachians,NORP,,,en,1.0
 Next Week,Next Week,DATE,,,en,1.0
-12.7 °C,12.7 °C,MONEY,,,en,1.0
-The L,The L,FAC,,,en,1.0
-Century-old,Century-old,DATE,,,en,1.0
-11 degrees,11 degrees,QUANTITY,,,en,1.0
-the first half of November,the first half of November,DATE,,,en,1.0
-the coldest night of the week,the coldest night of the week,TIME,,,en,1.0
-windy weekend,windy weekend,DATE,,,en,1.0
-the last few days,the last few days,DATE,,,en,1.0
-76-Year,76-Year,CARDINAL,,,en,1.0
-"1,500-Year","1,500-Year",CARDINAL,,,en,1.0
-the morning,the morning,TIME,,,en,1.0
-Nov. 22,Nov. 22,DATE,,,en,1.0
-Weekend,Weekend,DATE,,,en,1.0
-ten to 11 degrees,ten to 11 degrees,QUANTITY,,,en,1.0
-recent days,recent days,DATE,,,en,1.0
-Years,Years,DATE,,,en,1.0
-five,five,CARDINAL,,,en,1.0
-northerners,northerners,NORP,,,en,1.0
-35,35,CARDINAL,,,en,1.0
-80,80,CARDINAL,,,en,1.0
-"1,000 litres","1,000 litres",QUANTITY,,,en,1.0
-a month ago,a month ago,DATE,,,en,1.0
+2025-11-06,2025-11-06,DATE,,,en,1.0
+Australian,Australian,NORP,,,en,1.0
+988,988,CARDINAL,,,en,1.0
++4223 chars,+4223 chars,WORK_OF_ART,,,en,1.0
+5.4 degrees Celsius,5.4 degrees Celsius,QUANTITY,,,en,1.0
+18th November,18th November,DATE,,,en,1.0
+Gradle,Gradle,WORK_OF_ART,,,en,1.0
+18 November 2025,18 November 2025,DATE,,,en,1.0
 coldest night,coldest night,TIME,,,en,1.0
 the coldest night of this winter,the coldest night of this winter,TIME,,,en,1.0
 the coldest night of … [,the coldest night of … [,TIME,,,en,1.0
 Thanksgiving Day Parade,Thanksgiving Day Parade,DATE,,,en,1.0
 +12789,+12789,NORP,,,en,1.0
 2025-11-24,2025-11-24,DATE,,,en,1.0
-LAST UPDATE|30 mins ago,LAST UPDATE|30 mins ago,DATE,,,en,1.0
-cold months,cold months,DATE,,,en,1.0
-early next week,early next week,DATE,,,en,1.0
-Tonight,Tonight,TIME,,,en,1.0
-10C,10C,DATE,,,en,1.0
-the next week,the next week,DATE,,,en,1.0
-11.2 degree C,11.2 degree C,MONEY,,,en,1.0
-Ghats,Ghats,FAC,,,en,1.0
-two consecutive days,two consecutive days,DATE,,,en,1.0
-"9°C, which is","9°C, which is",PERCENT,,,en,1.0
-4.5 degrees,4.5 degrees,QUANTITY,,,en,1.0
-5.4 degrees Celsius,5.4 degrees Celsius,QUANTITY,,,en,1.0
-mid-day,mid-day,DATE,,,en,1.0
-18th November,18th November,DATE,,,en,1.0
-18 November 2025,18 November 2025,DATE,,,en,1.0
-"Monday, November 17, 2025","Monday, November 17, 2025",DATE,,,en,1.0
+Century-old,Century-old,DATE,,,en,1.0
++3170,+3170,NORP,,,en,1.0
+month-long,month-long,DATE,,,en,1.0
+Assembly Hall,Assembly Hall,FAC,,,en,1.0
+Tuesday night,Tuesday night,TIME,,,en,1.0
+the holiday weekend,the holiday weekend,DATE,,,en,1.0
+86,86,CARDINAL,,,en,1.0
+Peanuts,Peanuts,WORK_OF_ART,,,en,1.0
+"Nov. 24, 2022","Nov. 24, 2022",DATE,,,en,1.0
+Macys Thanksgiving parade,Macys Thanksgiving parade,FAC,,,en,1.0
+the Hard Rock Hotel Riviera Maya SDSU,the Hard Rock Hotel Riviera Maya SDSU,FAC,,,en,1.0
+10-6,10-6,CARDINAL,,,en,1.0
+"14 minutes, 12 seconds","14 minutes, 12 seconds",TIME,,,en,1.0
+the Hard Rock Hotel,the Hard Rock Hotel,FAC,,,en,1.0
+14 minutes,14 minutes,TIME,,,en,1.0
+Cold Weather Incoming,Cold Weather Incoming,WORK_OF_ART,,,en,1.0
+These IKEA Hacks Are Seriously Warming,These IKEA Hacks Are Seriously Warming,WORK_OF_ART,,,en,1.0
+the Cold War,the Cold War,EVENT,,,en,1.0
+3.6B,3.6B,MONEY,,,en,1.0
+the National En… [,the National En… [,EVENT,,,en,1.0
++1917 chars,+1917 chars,WORK_OF_ART,,,en,1.0
+19.99,19.99,MONEY,,,en,1.0
+Advertiser Disclosure: Many of the,Advertiser Disclosure: Many of the,WORK_OF_ART,,,en,1.0
+a month ago,a month ago,DATE,,,en,1.0
+"1,000 litres","1,000 litres",QUANTITY,,,en,1.0
+80,80,CARDINAL,,,en,1.0
 Amazon Offloads Delta 2 Power Station,Amazon Offloads Delta 2 Power Station,PRODUCT,,,en,1.0
+Tonight,Tonight,TIME,,,en,1.0
+"Monday, November 17, 2025","Monday, November 17, 2025",DATE,,,en,1.0
 at least seven,at least seven,CARDINAL,,,en,1.0
 11/24,11/24,CARDINAL,,,en,1.0
 Black Friday,Black Friday,EVENT,,,en,1.0
@@ -954,14 +1080,224 @@ SEVERAL days,SEVERAL days,DATE,,,en,1.0
 the low 40s,the low 40s,DATE,,,en,1.0
 Nov. 11,Nov. 11,DATE,,,en,1.0
 7 to 10 a.m.,7 to 10 a.m.,TIME,,,en,1.0
-Edmontonians,Edmontonians,NORP,,,en,1.0
-New Map Condition,New Map Condition,LAW,,,en,1.0
+cold months,cold months,DATE,,,en,1.0
+northerners,northerners,NORP,,,en,1.0
+LAST UPDATE|30 mins ago,LAST UPDATE|30 mins ago,DATE,,,en,1.0
+the first half of November,the first half of November,DATE,,,en,1.0
+the coldest night of the week,the coldest night of the week,TIME,,,en,1.0
+windy weekend,windy weekend,DATE,,,en,1.0
+the last few days,the last few days,DATE,,,en,1.0
+76-Year,76-Year,CARDINAL,,,en,1.0
+"1,500-Year","1,500-Year",CARDINAL,,,en,1.0
+Nov. 22,Nov. 22,DATE,,,en,1.0
+Weekend,Weekend,DATE,,,en,1.0
+ten to 11 degrees,ten to 11 degrees,QUANTITY,,,en,1.0
+recent days,recent days,DATE,,,en,1.0
+11 degrees,11 degrees,QUANTITY,,,en,1.0
+Years,Years,DATE,,,en,1.0
+year-over-year,year-over-year,DATE,,,en,1.0
+Dec. 1 to Dec. 10,Dec. 1 to Dec. 10,DATE,,,en,1.0
+around 49 deg,around 49 deg,QUANTITY,,,en,1.0
+Nazi,Nazi,NORP,,,en,1.0
+the end of December,the end of December,DATE,,,en,1.0
++2498,+2498,NORP,,,en,1.0
+Indie Games,Indie Games,EVENT,,,en,1.0
+The Real Trick Is Hidden Inside,The Real Trick Is Hidden Inside,WORK_OF_ART,,,en,1.0
+14 years,14 years,DATE,,,en,1.0
+new year,new year,DATE,,,en,1.0
+7-8C,7-8C,DATE,,,en,1.0
++3086,+3086,NORP,,,en,1.0
+7.97,7.97,MONEY,,,en,1.0
+yesterday,yesterday,DATE,,,en,1.0
+Moroccan,Moroccan,NORP,,,en,1.0
 mid-week,mid-week,DATE,,,en,1.0
-Arc Raiders,Arc Raiders,WORK_OF_ART,,,en,1.0
-An Extreme Version of Lunch,An Extreme Version of Lunch,WORK_OF_ART,,,en,1.0
-First day of winter 2025,First day of winter 2025,DATE,,,en,1.0
-the shortest day,the shortest day,DATE,,,en,1.0
-longest night of the year,longest night of the year,TIME,,,en,1.0
+Sunday evening,Sunday evening,TIME,,,en,1.0
+Deepest Gas Hydrate Discovered Teeming With Life Off Greenland,Deepest Gas Hydrate Discovered Teeming With Life Off Greenland,WORK_OF_ART,,,en,1.0
+29 December 2025,29 December 2025,DATE,,,en,1.0
+First Cold War,First Cold War,EVENT,,,en,1.0
+80th,80th,ORDINAL,,,en,1.0
+World War Two,World War Two,EVENT,,,en,1.0
+a full 24 hours,a full 24 hours,TIME,,,en,1.0
+New Year’s Day,New Year’s Day,EVENT,,,en,1.0
+6°,6°,QUANTITY,,,en,1.0
+New Years Day 2026,New Years Day 2026,EVENT,,,en,1.0
+Frosty,Frosty,WORK_OF_ART,,,en,1.0
+the first week of 2026,the first week of 2026,DATE,,,en,1.0
+next weekend,next weekend,DATE,,,en,1.0
+bay 9/10,bay 9/10,FAC,,,en,1.0
++14810,+14810,NORP,,,en,1.0
+New Year's Day,New Year's Day,EVENT,,,en,1.0
++3175,+3175,NORP,,,en,1.0
+"January 1, 2026","January 1, 2026",DATE,,,en,1.0
+January 1,January 1,DATE,,,en,1.0
+Highmark Stadium,Highmark Stadium,FAC,,,en,1.0
+11:42,11:42,CARDINAL,,,en,1.0
+'coldest Christmas,'coldest Christmas,DATE,,,en,1.0
+15 years',15 years',DATE,,,en,1.0
+"6:18 PM
+","6:18 PM
+",TIME,,,en,1.0
++11892 chars,+11892 chars,WORK_OF_ART,,,en,1.0
+about 360 kilometres,about 360 kilometres,QUANTITY,,,en,1.0
+the holidays,the holidays,DATE,,,en,1.0
++13042 chars,+13042 chars,WORK_OF_ART,,,en,1.0
+the start of 2026,the start of 2026,DATE,,,en,1.0
+December 2032,December 2032,DATE,,,en,1.0
+2.17M,2.17M,MONEY,,,en,1.0
+"462,064","462,064",CARDINAL,,,en,1.0
+February 23,February 23,DATE,,,en,1.0
+20,20,CARDINAL,,,en,1.0
+More Than Two Miles,More Than Two Miles,QUANTITY,,,en,1.0
+warm day,warm day,DATE,,,en,1.0
+"some 3,640 meters","some 3,640 meters",QUANTITY,,,en,1.0
++25340 chars,+25340 chars,WORK_OF_ART,,,en,1.0
+Continental,Continental,NORP,,,en,1.0
+summertime,summertime,DATE,,,en,1.0
+37603802,37603802,CARDINAL,,,en,1.0
+2015,2015,DATE,,,en,1.0
+Türkiye,Türkiye,NORP,-0.2318181818181818,0.7272727272727273,en,1.0
+noon,noon,TIME,,,en,1.0
+27 December,27 December,DATE,,,en,1.0
+the day after Christmas,the day after Christmas,DATE,,,en,1.0
+the saddest day of the year,the saddest day of the year,DATE,,,en,1.0
++4930,+4930,NORP,,,en,1.0
+the end of October,the end of October,DATE,,,en,1.0
+100th,100th,ORDINAL,,,en,1.0
+almost a century,almost a century,DATE,,,en,1.0
+another weekend,another weekend,DATE,,,en,1.0
+the 1920s,the 1920s,DATE,,,en,1.0
+Evia,Evia,PRODUCT,-0.08571428571428572,0.5071428571428572,en,1.0
+coldest night of 2025,coldest night of 2025,TIME,,,en,1.0
+another week,another week,DATE,,,en,1.0
+Winter Vacations 2026,Winter Vacations 2026,DATE,,,en,1.0
+12/31/2025,12/31/2025,DATE,,,en,1.0
+Three Hottest Years,Three Hottest Years,DATE,,,en,1.0
+HOTTEST DECEMBER DAY,HOTTEST DECEMBER DAY,DATE,,,en,1.0
+Decembers,Decembers,NORP,,,en,1.0
+recent decades,recent decades,DATE,,,en,1.0
+the driest winter months,the driest winter months,DATE,,,en,1.0
+Winter holidays,Winter holidays,DATE,,,en,1.0
+January 7,January 7,DATE,,,en,1.0
+winter holidays,winter holidays,DATE,,,en,1.0
+New Year's,New Year's,EVENT,,,en,1.0
+Dec 31,Dec 31,DATE,,,en,1.0
+Guwahati,Guwahati,EVENT,-0.05405405405405405,0.18018018018018017,en,1.0
+1.99,1.99,MONEY,,,en,1.0
+Infinity War,Infinity War,EVENT,,,en,1.0
+the year 2026,the year 2026,DATE,,,en,1.0
+December 31,December 31,DATE,,,en,1.0
+mid-October,mid-October,DATE,,,en,1.0
+Fresh Plaza,Fresh Plaza,FAC,,,en,1.0
+20% to 40%,20% to 40%,PERCENT,,,en,1.0
+68.9%,68.9%,PERCENT,,,en,1.0
+Ecclesiastes,Ecclesiastes,PRODUCT,,,en,1.0
+Wager,Wager,PRODUCT,,,en,1.0
+Germanic,Germanic,LANGUAGE,,,en,1.0
+14-18%,14-18%,PERCENT,,,en,1.0
+yearly,yearly,DATE,,,en,1.0
+"December 31, 2025","December 31, 2025",DATE,,,en,1.0
+6.4 degrees Celsius,6.4 degrees Celsius,QUANTITY,,,en,1.0
+6 degrees,6 degrees,QUANTITY,,,en,1.0
+a weekend,a weekend,DATE,,,en,1.0
+1930s,1930s,DATE,,,en,1.0
+"Monday, Dec. 29","Monday, Dec. 29",DATE,,,en,1.0
+A few days,A few days,DATE,,,en,1.0
+Christmas Day,Christmas Day,DATE,,,en,1.0
+Bomb Cyclone,Bomb Cyclone,WORK_OF_ART,,,en,1.0
+Unleashes Chaos on Millions of Americans From Michigan,Unleashes Chaos on Millions of Americans From Michigan,WORK_OF_ART,,,en,1.0
+Arctic Cold,Arctic Cold,PRODUCT,,,en,1.0
+The end of 2025,The end of 2025,DATE,,,en,1.0
+Winter Storm Ezra,Winter Storm Ezra,WORK_OF_ART,,,en,1.0
+about 50,about 50,CARDINAL,,,en,1.0
+40 mph,40 mph,QUANTITY,,,en,1.0
+Dec. 27,Dec. 27,DATE,,,en,1.0
+20s overnight,20s overnight,TIME,,,en,1.0
+Lake Lugano,Lake Lugano,FAC,0.125,0.21666666666666667,en,1.0
+Kamrup Metro,Kamrup Metro,FAC,,,en,1.0
+Feb.,Feb.,DATE,,,en,1.0
+74,74,CARDINAL,,,en,1.0
+11:45 a.m.,11:45 a.m.,TIME,,,en,1.0
+no fewer than a dozen,no fewer than a dozen,CARDINAL,,,en,1.0
+Dec.  29,Dec.  29,DATE,,,en,1.0
+2025 -  ,2025 -  ,DATE,,,en,1.0
+Dec. 29,Dec. 29,DATE,,,en,1.0
+"2025 - - 
+","2025 - - 
+",DATE,,,en,1.0
+50 years,50 years,DATE,,,en,1.0
+2026 lunar calendar,2026 lunar calendar,DATE,,,en,1.0
+The new year,The new year,DATE,,,en,1.0
+The first 162 days,The first 162 days,DATE,,,en,1.0
+2022,2022,DATE,,,en,1.0
+Long-Lasting Comfort,Long-Lasting Comfort,FAC,,,en,1.0
++2693 chars,+2693 chars,WORK_OF_ART,,,en,1.0
+December 23rd,December 23rd,DATE,,,en,1.0
+Three inches,Three inches,QUANTITY,,,en,1.0
+the Lincoln Lodge,the Lincoln Lodge,FAC,,,en,1.0
+The Not That Late Show,The Not That Late Show,WORK_OF_ART,,,en,1.0
+First Cold War-Era,First Cold War-Era,EVENT,,,en,1.0
+Edwards Air Force Base,Edwards Air Force Base,FAC,,,en,1.0
+Stratofortress,Stratofortress,PRODUCT,,,en,1.0
+"Dec. 8, 2025","Dec. 8, 2025",DATE,,,en,1.0
+FPS,FPS,PRODUCT,,,en,1.0
+49 minutes,49 minutes,TIME,,,en,1.0
+Record Low for Christmas,Record Low for Christmas,PRODUCT,,,en,1.0
++2934,+2934,NORP,,,en,1.0
+14-13-6,14-13-6,DATE,,,en,1.0
+Jet Greaves,Jet Greaves,PRODUCT,,,en,1.0
+almost 10%,almost 10%,PERCENT,,,en,1.0
+the beginning of the second,the beginning of the second,DATE,,,en,1.0
+Titans,Titans,NORP,,,en,1.0
+the Cold Snap Flickering Flames,the Cold Snap Flickering Flames,LAW,,,en,1.0
+The Candle Holder in Arc Raiders,The Candle Holder in Arc Raiders,WORK_OF_ART,,,en,1.0
+"the Cold Snap ""","the Cold Snap """,LAW,,,en,1.0
++13915,+13915,NORP,,,en,1.0
+995,995,MONEY,,,en,1.0
+This Might Be Broken,This Might Be Broken,WORK_OF_ART,,,en,1.0
+34 degrees,34 degrees,QUANTITY,,,en,1.0
+1987,1987,DATE,,,en,1.0
+39.8 degrees,39.8 degrees,QUANTITY,,,en,1.0
+coldest day,coldest day,DATE,,,en,1.0
+1949,1949,DATE,,,en,1.0
+10.6 degrees,10.6 degrees,QUANTITY,,,en,1.0
+nearly 34 degrees,nearly 34 degrees,QUANTITY,,,en,1.0
+Cold Snap Update Really Juiced The Blueprint Economy,Cold Snap Update Really Juiced The Blueprint Economy,PRODUCT,,,en,1.0
++4131,+4131,NORP,,,en,1.0
+190o Celsius,190o Celsius,PRODUCT,,,en,1.0
+five-inch,five-inch,QUANTITY,,,en,1.0
+"40,000 tonnes","40,000 tonnes",QUANTITY,,,en,1.0
+a dozen,a dozen,CARDINAL,,,en,1.0
+Dec 14,Dec 14,DATE,,,en,1.0
+25 to 35 mph,25 to 35 mph,QUANTITY,,,en,1.0
++1143,+1143,NORP,,,en,1.0
+earlier this year,earlier this year,DATE,,,en,1.0
+a snow day,a snow day,DATE,,,en,1.0
+Topside,Topside,NORP,,,en,1.0
+more than 70,more than 70,CARDINAL,,,en,1.0
+Mintlify,Mintlify,NORP,,,en,1.0
+72 million,72 million,CARDINAL,,,en,1.0
+between seven and 10 miserable days,between seven and 10 miserable days,CARDINAL,,,en,1.0
+just 8,just 8,CARDINAL,,,en,1.0
+74 million,74 million,CARDINAL,,,en,1.0
+the Long Dark,the Long Dark,FAC,,,en,1.0
+billions of years,billions of years,DATE,,,en,1.0
+Spaceport,Spaceport,FAC,0.35,0.5,en,1.0
+20 years,20 years,DATE,,,en,1.0
+Future Jess,Future Jess,WORK_OF_ART,,,en,1.0
+Minus 49,Minus 49,CARDINAL,,,en,1.0
+Candlelight,Candlelight,PRODUCT,,,en,1.0
+Week 16,Week 16,DATE,,,en,1.0
+the start of January,the start of January,DATE,,,en,1.0
+Week 15,Week 15,DATE,,,en,1.0
+the first week of the season,the first week of the season,DATE,,,en,1.0
+every year,every year,DATE,,,en,1.0
+the Flickering Flam,the Flickering Flam,WORK_OF_ART,,,en,1.0
+a winter day,a winter day,DATE,,,en,1.0
+360,360,CARDINAL,,,en,1.0
+Cold Snap Update,Cold Snap Update,PRODUCT,,,en,1.0
+Game Awards,Game Awards,EVENT,,,en,1.0
+this Christmas,this Christmas,DATE,,,en,1.0
+4-6 months,4-6 months,DATE,,,en,1.0
 fewer daylight hours,fewer daylight hours,TIME,,,en,1.0
 The day,The day,DATE,,,en,1.0
 the coming of the winter solstice,the coming of the winter solstice,DATE,,,en,1.0
@@ -975,19 +1311,25 @@ winter off-season,winter off-season,DATE,,,en,1.0
 the warmest months,the warmest months,DATE,,,en,1.0
 indic,indic,WORK_OF_ART,,,en,1.0
 +10070 chars,+10070 chars,WORK_OF_ART,,,en,1.0
-4-6 months,4-6 months,DATE,,,en,1.0
 6-12 mont…,6-12 mont…,QUANTITY,,,en,1.0
+the shortest day,the shortest day,DATE,,,en,1.0
 4-6 month,4-6 month,DATE,,,en,1.0
 the next 2448 hours,the next 2448 hours,TIME,,,en,1.0
 This Winter,This Winter,DATE,,,en,1.0
 as low as $8,as low as $8,MONEY,,,en,1.0
 chilly winters,chilly winters,DATE,,,en,1.0
 the hardest months of th… December,the hardest months of th… December,DATE,,,en,1.0
-PBA Pro Bowling 2026,PBA Pro Bowling 2026,EVENT,,,en,1.0
-the summer,the summer,DATE,,,en,1.0
-early Saturday,early Saturday,DATE,,,en,1.0
-approximately 20 feet,approximately 20 feet,QUANTITY,,,en,1.0
+May,May,DATE,,,en,1.0
+late December,late December,DATE,,,en,1.0
+the latest holiday,the latest holiday,DATE,,,en,1.0
+a warm day,a warm day,DATE,,,en,1.0
+80s,80s,DATE,,,en,1.0
+Cold Call,Cold Call,WORK_OF_ART,,,en,1.0
+Snows,Snows,WORK_OF_ART,,,en,1.0
+longest night of the year,longest night of the year,TIME,,,en,1.0
+First day of winter 2025,First day of winter 2025,DATE,,,en,1.0
 Green,Green,WORK_OF_ART,,,en,1.0
+Dec. 19,Dec. 19,DATE,,,en,1.0
 Venetian,Venetian,NORP,,,en,1.0
 centuries,centuries,DATE,,,en,1.0
 Europeans,Europeans,NORP,,,en,1.0
@@ -998,10 +1340,11 @@ Chillai-K,Chillai-K,WORK_OF_ART,,,en,1.0
 Christmas Classic,Christmas Classic,WORK_OF_ART,,,en,1.0
 2000,2000,DATE,,,en,1.0
 +4100,+4100,NORP,,,en,1.0
+approximately 20 feet,approximately 20 feet,QUANTITY,,,en,1.0
+7:52 AM,7:52 AM,TIME,,,en,1.0
 +4165 chars,+4165 chars,WORK_OF_ART,,,en,1.0
-December 19,December 19,DATE,,,en,1.0
-Dec. 19,Dec. 19,DATE,,,en,1.0
 168 million miles,168 million miles,QUANTITY,,,en,1.0
+An Extreme Version of Lunch,An Extreme Version of Lunch,WORK_OF_ART,,,en,1.0
 270 million kilometers,270 million kilometers,QUANTITY,,,en,1.0
 1 a.m. EST,1 a.m. EST,TIME,,,en,1.0
 "Over 8,800","Over 8,800",CARDINAL,,,en,1.0
@@ -1011,174 +1354,8 @@ minus 4 degrees,minus 4 degrees,QUANTITY,,,en,1.0
 +1544 chars,+1544 chars,WORK_OF_ART,,,en,1.0
 roughly 20%,roughly 20%,PERCENT,,,en,1.0
 1991-2020,1991-2020,DATE,,,en,1.0
-May,May,DATE,,,en,1.0
-late December,late December,DATE,,,en,1.0
-the latest holiday,the latest holiday,DATE,,,en,1.0
-January 1,January 1,DATE,,,en,1.0
-37603802,37603802,CARDINAL,,,en,1.0
-2015,2015,DATE,,,en,1.0
-Türkiye,Türkiye,NORP,-0.2318181818181818,0.7272727272727273,en,1.0
-noon,noon,TIME,,,en,1.0
-27 December,27 December,DATE,,,en,1.0
-the day after Christmas,the day after Christmas,DATE,,,en,1.0
-the saddest day of the year,the saddest day of the year,DATE,,,en,1.0
-+4930,+4930,NORP,,,en,1.0
-the end of October,the end of October,DATE,,,en,1.0
-warm day,warm day,DATE,,,en,1.0
-Highmark Stadium,Highmark Stadium,FAC,,,en,1.0
-"January 1, 2026","January 1, 2026",DATE,,,en,1.0
-Continental,Continental,NORP,,,en,1.0
-the end of December,the end of December,DATE,,,en,1.0
-+2498,+2498,NORP,,,en,1.0
-Indie Games,Indie Games,EVENT,,,en,1.0
-The Real Trick Is Hidden Inside,The Real Trick Is Hidden Inside,WORK_OF_ART,,,en,1.0
-14 years,14 years,DATE,,,en,1.0
-new year,new year,DATE,,,en,1.0
-7-8C,7-8C,DATE,,,en,1.0
-+3086,+3086,NORP,,,en,1.0
-7.97,7.97,MONEY,,,en,1.0
-yesterday,yesterday,DATE,,,en,1.0
-Moroccan,Moroccan,NORP,,,en,1.0
-summertime,summertime,DATE,,,en,1.0
-+25340 chars,+25340 chars,WORK_OF_ART,,,en,1.0
-a warm day,a warm day,DATE,,,en,1.0
-+11892 chars,+11892 chars,WORK_OF_ART,,,en,1.0
-80s,80s,DATE,,,en,1.0
-Cold Call,Cold Call,WORK_OF_ART,,,en,1.0
-Snows,Snows,WORK_OF_ART,,,en,1.0
-Three inches,Three inches,QUANTITY,,,en,1.0
-December 23rd,December 23rd,DATE,,,en,1.0
-+2693 chars,+2693 chars,WORK_OF_ART,,,en,1.0
-Long-Lasting Comfort,Long-Lasting Comfort,FAC,,,en,1.0
-'coldest Christmas,'coldest Christmas,DATE,,,en,1.0
-15 years',15 years',DATE,,,en,1.0
-Overnight,Overnight,TIME,,,en,1.0
-"6:18 PM
-","6:18 PM
-",TIME,,,en,1.0
-about 360 kilometres,about 360 kilometres,QUANTITY,,,en,1.0
-"some 3,640 meters","some 3,640 meters",QUANTITY,,,en,1.0
-the holidays,the holidays,DATE,,,en,1.0
-+13042 chars,+13042 chars,WORK_OF_ART,,,en,1.0
-the start of 2026,the start of 2026,DATE,,,en,1.0
-December 2032,December 2032,DATE,,,en,1.0
-2.17M,2.17M,MONEY,,,en,1.0
-"462,064","462,064",CARDINAL,,,en,1.0
-February 23,February 23,DATE,,,en,1.0
-20,20,CARDINAL,,,en,1.0
-4:33,4:33,DATE,,,en,1.0
-11:42,11:42,CARDINAL,,,en,1.0
-More Than Two Miles,More Than Two Miles,QUANTITY,,,en,1.0
-this Christmas,this Christmas,DATE,,,en,1.0
-Game Awards,Game Awards,EVENT,,,en,1.0
-Cold Snap Update,Cold Snap Update,PRODUCT,,,en,1.0
-24 Inches,24 Inches,QUANTITY,,,en,1.0
-158,158,MONEY,,,en,1.0
-"1,550","1,550",MONEY,,,en,1.0
-390,390,MONEY,,,en,1.0
-Winter 2025,Winter 2025,DATE,,,en,1.0
-seasonal,seasonal,DATE,,,en,1.0
-Italian,Italian,NORP,,,en,1.0
-+5244,+5244,CARDINAL,,,en,1.0
-Creamsicle,Creamsicle,FAC,,,en,1.0
-30+ hours,30+ hours,TIME,,,en,1.0
-+5307,+5307,NORP,,,en,1.0
-the Tractor Shed,the Tractor Shed,FAC,,,en,1.0
-Raider Deck,Raider Deck,PRODUCT,,,en,1.0
-up to 50 cm,up to 50 cm,QUANTITY,,,en,1.0
-eight degrees colder,eight degrees colder,QUANTITY,,,en,1.0
-year-over-year,year-over-year,DATE,,,en,1.0
-Dec. 1 to Dec. 10,Dec. 1 to Dec. 10,DATE,,,en,1.0
-around 49 deg,around 49 deg,QUANTITY,,,en,1.0
-another weekend,another weekend,DATE,,,en,1.0
-a dozen,a dozen,CARDINAL,,,en,1.0
-Dec 14,Dec 14,DATE,,,en,1.0
-25 to 35 mph,25 to 35 mph,QUANTITY,,,en,1.0
-+1143,+1143,NORP,,,en,1.0
-earlier this year,earlier this year,DATE,,,en,1.0
-a snow day,a snow day,DATE,,,en,1.0
-745,745,MONEY,,,en,1.0
-early Sunday morning,early Sunday morning,TIME,,,en,1.0
-more than 70,more than 70,CARDINAL,,,en,1.0
-+2959,+2959,NORP,,,en,1.0
-"Cold Snap""","Cold Snap""",WORK_OF_ART,,,en,1.0
-Embark X,Embark X,LAW,,,en,1.0
-five years,five years,DATE,,,en,1.0
-December 9th,December 9th,DATE,,,en,1.0
-Their Nocturnal Habits House,Their Nocturnal Habits House,WORK_OF_ART,,,en,1.0
-Do House Sparrows Sleep at Night,Do House Sparrows Sleep at Night,WORK_OF_ART,,,en,1.0
-Their Nocturnal Habits,Their Nocturnal Habits,WORK_OF_ART,,,en,1.0
-millions of years,millions of years,DATE,,,en,1.0
-winter |,winter |,DATE,,,en,1.0
-Dec. 9 and 10,Dec. 9 and 10,DATE,,,en,1.0
-Dec. 9 and the morning,Dec. 9 and the morning,DATE,,,en,1.0
-lignan,lignan,NORP,,,en,1.0
-2.5 inches,2.5 inches,QUANTITY,,,en,1.0
-87,87,CARDINAL,,,en,1.0
-204,204,CARDINAL,,,en,1.0
-19902019,19902019,CARDINAL,,,en,1.0
-122,122,CARDINAL,,,en,1.0
-"Thursday, December 11, 2025","Thursday, December 11, 2025",DATE,,,en,1.0
-Four,Four,CARDINAL,,,en,1.0
-1-3%,1-3%,PERCENT,,,en,1.0
-About 80%,About 80%,PERCENT,,,en,1.0
-59,59,CARDINAL,,,en,1.0
-+2314 chars,+2314 chars,WORK_OF_ART,,,en,1.0
-several inches,several inches,QUANTITY,,,en,1.0
-Topside,Topside,NORP,,,en,1.0
-Mintlify,Mintlify,NORP,,,en,1.0
-Cold Snap Update Really Juiced The Blueprint Economy,Cold Snap Update Really Juiced The Blueprint Economy,PRODUCT,,,en,1.0
-the Cold Snap Flickering Flames,the Cold Snap Flickering Flames,LAW,,,en,1.0
-"Dec. 8, 2025","Dec. 8, 2025",DATE,,,en,1.0
-FPS,FPS,PRODUCT,,,en,1.0
-49 minutes,49 minutes,TIME,,,en,1.0
-Record Low for Christmas,Record Low for Christmas,PRODUCT,,,en,1.0
-+2934,+2934,NORP,,,en,1.0
-14-13-6,14-13-6,DATE,,,en,1.0
-34,34,CARDINAL,,,en,1.0
-Jet Greaves,Jet Greaves,PRODUCT,,,en,1.0
-almost 10%,almost 10%,PERCENT,,,en,1.0
-the beginning of the second,the beginning of the second,DATE,,,en,1.0
-Titans,Titans,NORP,,,en,1.0
-The Candle Holder in Arc Raiders,The Candle Holder in Arc Raiders,WORK_OF_ART,,,en,1.0
-Edwards Air Force Base,Edwards Air Force Base,FAC,,,en,1.0
-"the Cold Snap ""","the Cold Snap """,LAW,,,en,1.0
-+13915,+13915,NORP,,,en,1.0
-995,995,MONEY,,,en,1.0
-This Might Be Broken,This Might Be Broken,WORK_OF_ART,,,en,1.0
-34 degrees,34 degrees,QUANTITY,,,en,1.0
-1987,1987,DATE,,,en,1.0
-39.8 degrees,39.8 degrees,QUANTITY,,,en,1.0
-coldest day,coldest day,DATE,,,en,1.0
-1949,1949,DATE,,,en,1.0
-10.6 degrees,10.6 degrees,QUANTITY,,,en,1.0
-nearly 34 degrees,nearly 34 degrees,QUANTITY,,,en,1.0
-Stratofortress,Stratofortress,PRODUCT,,,en,1.0
-First Cold War-Era,First Cold War-Era,EVENT,,,en,1.0
-72 million,72 million,CARDINAL,,,en,1.0
-the start of January,the start of January,DATE,,,en,1.0
-between seven and 10 miserable days,between seven and 10 miserable days,CARDINAL,,,en,1.0
-just 8,just 8,CARDINAL,,,en,1.0
-74 million,74 million,CARDINAL,,,en,1.0
-"40,000 tonnes","40,000 tonnes",QUANTITY,,,en,1.0
-the Long Dark,the Long Dark,FAC,,,en,1.0
-Spaceport,Spaceport,FAC,0.35,0.5,en,1.0
-20 years,20 years,DATE,,,en,1.0
-Future Jess,Future Jess,WORK_OF_ART,,,en,1.0
-Minus 49,Minus 49,CARDINAL,,,en,1.0
-Candlelight,Candlelight,PRODUCT,,,en,1.0
-Week 16,Week 16,DATE,,,en,1.0
-Week 15,Week 15,DATE,,,en,1.0
-The Not That Late Show,The Not That Late Show,WORK_OF_ART,,,en,1.0
-the first week of the season,the first week of the season,DATE,,,en,1.0
-every year,every year,DATE,,,en,1.0
-the Flickering Flam,the Flickering Flam,WORK_OF_ART,,,en,1.0
-a winter day,a winter day,DATE,,,en,1.0
-360,360,CARDINAL,,,en,1.0
-billions of years,billions of years,DATE,,,en,1.0
-five-inch,five-inch,QUANTITY,,,en,1.0
-190o Celsius,190o Celsius,PRODUCT,,,en,1.0
-+4131,+4131,NORP,,,en,1.0
-52,52,DATE,,,en,1.0
-the Lincoln Lodge,the Lincoln Lodge,FAC,,,en,1.0
-Canadians,Canadians,NORP,,,en,1.0
+December 19,December 19,DATE,,,en,1.0
+early Saturday,early Saturday,DATE,,,en,1.0
+the summer,the summer,DATE,,,en,1.0
+PBA Pro Bowling 2026,PBA Pro Bowling 2026,EVENT,,,en,1.0
+Sout,Sout,NORP,,,en,1.0
