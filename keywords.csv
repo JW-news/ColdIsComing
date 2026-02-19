@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.11601985087813775
+'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.1160198508781377
 'cold snap',en,Hazard,#ff0000,#ff0000,3,0.0978837941424678
-'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0916962217223888
+'cold spell',en,Hazard,#ff0000,#ff0000,3,0.08199682846403047
 'cold front',en,Causes,#00ffff,#00ffff,3,0.0802504425199468
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0800794398810565
 'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0788093680516985
