@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.0946937069801245
-'cold snap',en,Hazard,#ff0000,#ff0000,3,0.07476408841913282
+'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.08546684593310583
+'cold snap',en,Hazard,#ff0000,#ff0000,3,0.0747640884191328
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0736682109731541
 'cold front',en,Causes,#00ffff,#00ffff,3,0.0733996172709086
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.07149881637608
