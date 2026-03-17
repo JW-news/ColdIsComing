@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0755946168535734
-'heating system',en,Mitigation,#00ff00,#00ff00,3,0.07437213208445771
+'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0743721320844577
+'cold wave',en,Hazard,#ff0000,#ff0000,3,0.06831205432553739
 'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0660617538193421
 'cold front',en,Causes,#00ffff,#00ffff,3,0.0659758405139365
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0655041303860907
