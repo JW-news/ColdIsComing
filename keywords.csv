@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.07553952365038501
-'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0731438280100227
+'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.075539523650385
+'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.06848871017215566
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0655041303860907
 'cold front',en,Causes,#00ffff,#00ffff,3,0.0642352488493802
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0627819673487816
