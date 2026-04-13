@@ -348,9 +348,9 @@ VC,VC,ORG,0.5,0.0,en,1.0
 EA,EA,ORG,0.0,0.0,en,1.0
 Deer Movement,Deer Movement,ORG,0.24166666666666664,0.0,en,1.0
 Deer Movement and Habitat,Deer Movement and Habitat,ORG,0.12166666666666666,0.0,en,1.0
-BYD,BYD,ORG,0.23409090909090915,0.0,en,1.0
 EV,EV,ORG,0.23409090909090915,0.0,en,1.0
 the BYD Group,the BYD Group,ORG,0.23409090909090915,0.0,en,1.0
+BYD,BYD,ORG,0.23409090909090915,0.0,en,1.0
 Sony,Sony,ORG,-0.1962121212121212,0.0,en,1.0
 Silicone,Silicone,ORG,0.0,0.0,en,1.0
 Sustainability Focus,Sustainability Focus,ORG,0.0,0.0,en,1.0
@@ -373,10 +373,10 @@ VRANTSI,VRANTSI,ORG,0.0,0.0,en,1.0
 Andrieiev,Andrieiev,ORG,-0.0875,0.0,en,1.0
 Pactimo Alpine Thermal Tights,Pactimo Alpine Thermal Tights,ORG,0.0,0.0,en,1.0
 the Apple Store,the Apple Store,ORG,-0.2,0.0,en,1.0
-Ukrainian 3rd Army Corps,Ukrainian 3rd Army Corps,ORG,-0.0875,0.0,en,1.0
-Ripley,Ripley,ORG,-0.01190476190476191,0.0,en,1.0
-FP,FP,ORG,-0.0875,0.0,en,1.0
 Mac,Mac,ORG,0.3261904761904762,0.0,en,1.0
+Ripley,Ripley,ORG,-0.01190476190476191,0.0,en,1.0
+Ukrainian 3rd Army Corps,Ukrainian 3rd Army Corps,ORG,-0.0875,0.0,en,1.0
+FP,FP,ORG,-0.0875,0.0,en,1.0
 the U.S. National Reconnaissance Off,the U.S. National Reconnaissance Off,ORG,0.0,0.0,en,1.0
 the Staten Island Ferry Terminal,the Staten Island Ferry Terminal,ORG,0.0,0.0,en,1.0
 DMI,DMI,ORG,0.8,0.0,en,1.0
@@ -428,13 +428,15 @@ Oval Office,Oval Office,ORG,0.0,0.0,en,1.0
 Kennedy Center,Kennedy Center,ORG,0.057575757575757565,0.0,en,1.0
 Klas Hyllén Architecture,Klas Hyllén Architecture,ORG,0.0,0.0,en,1.0
 Britain Letting America,Britain Letting America,ORG,-0.43125,0.0,en,1.0
-pachytene piRNAs,pachytene piRNAs,ORG,0.0,0.0,en,1.0
+Kinga Janowska,Kinga Janowska,ORG,-0.175,0.0,en,1.0
 FMI,FMI,ORG,-0.25,0.0,en,1.0
+"Darkness Cave Retreat
+","Darkness Cave Retreat
+",ORG,-0.175,0.0,en,1.0
+pachytene piRNAs,pachytene piRNAs,ORG,0.0,0.0,en,1.0
+Waterless Two-Phase Cooling,Waterless Two-Phase Cooling,ORG,0.0,0.0,en,1.0
 C57BL/6J,C57BL/6J,ORG,0.0,0.0,en,1.0
 IMSR,IMSR,ORG,0.0,0.0,en,1.0
-Waterless Two-Phase Cooling,Waterless Two-Phase Cooling,ORG,0.0,0.0,en,1.0
-JAX,JAX,ORG,0.0,0.0,en,1.0
-RRID,RRID,ORG,0.0,0.0,en,1.0
 contra,contra,ORG,-0.5,0.0,en,1.0
 Minotaur,Minotaur,ORG,0.1040719696969697,0.0,en,1.0
 Ignition Press,Ignition Press,ORG,0.1040719696969697,0.0,en,1.0
@@ -462,11 +464,9 @@ Semaglutide,Semaglutide,ORG,0.0,0.0,en,1.0
 PRH & Ignition,PRH & Ignition,ORG,-0.0068181818181818205,0.0,en,1.0
 TDWTF Home Edition,TDWTF Home Edition,ORG,0.0,0.0,en,1.0
 Penguin Random House,Penguin Random House,ORG,0.1040719696969697,0.0,en,1.0
+JAX,JAX,ORG,0.0,0.0,en,1.0
+RRID,RRID,ORG,0.0,0.0,en,1.0
 IMSR_JAX:000664,IMSR_JAX:000664,ORG,0.0,0.0,en,1.0
-Kinga Janowska,Kinga Janowska,ORG,-0.175,0.0,en,1.0
-"Darkness Cave Retreat
-","Darkness Cave Retreat
-",ORG,-0.175,0.0,en,1.0
 Disney World's,Disney World's,ORG,-0.075,0.0,en,1.0
 the Florida Fish and Wildlife Conservation Commission,the Florida Fish and Wildlife Conservation Commission,ORG,-0.06666666666666667,0.0,en,1.0
 AccuWeather,AccuWeather,ORG,0.04545454545454545,0.0,en,1.0
@@ -675,12 +675,12 @@ Avro Vulcan,Avro Vulcan,ORG,-0.3,0.0,en,1.0
 Standard International,Standard International,ORG,-0.04,0.0,en,1.0
 Hyatt,Hyatt,ORG,-0.04,0.0,en,1.0
 Santorini Black,Santorini Black,ORG,-0.3111111111111111,0.0,en,1.0
+microdialysis,microdialysis,ORG,0.0,0.0,en,1.0
 "Ministry of Land, Infrastructure and Transport","Ministry of Land, Infrastructure and Transport",ORG,-0.1,0.0,en,1.0
-digital tachograph data,digital tachograph data,ORG,0.0,0.0,en,1.0
 Key Priorities to Support Future Growth,Key Priorities to Support Future Growth,ORG,0.0875,0.0,en,1.0
 ATLAN,ATLAN,ORG,0.0875,0.0,en,1.0
 AI Turns Weather Data,AI Turns Weather Data,ORG,0.0,0.0,en,1.0
-microdialysis,microdialysis,ORG,0.0,0.0,en,1.0
+digital tachograph data,digital tachograph data,ORG,0.0,0.0,en,1.0
 oppo,oppo,ORG,0.0,0.0,en,1.0
 Sesame Street,Sesame Street,ORG,0.2872727272727273,0.0,en,1.0
 Bunkhouse Hotels,Bunkhouse Hotels,ORG,-0.04,0.0,en,1.0
@@ -714,10 +714,10 @@ Clim,Clim,ORG,0.0,0.0,en,1.0
 Superbowl House Party,Superbowl House Party,ORG,-0.6999999999999998,0.0,en,1.0
 clima,clima,ORG,0.14821428571428572,0.0,en,1.0
 NEMO Science Museum,NEMO Science Museum,ORG,0.4,0.0,en,1.0
-AOT Code Cache:,AOT Code Cache:,ORG,0.0,0.0,en,1.0
 Imperial Snowtroopers,Imperial Snowtroopers,ORG,-0.27499999999999997,0.0,en,1.0
 Changan Automobile,Changan Automobile,ORG,0.13636363636363635,0.0,en,1.0
 CATL,CATL,ORG,0.03125,0.0,en,1.0
+AOT Code Cache:,AOT Code Cache:,ORG,0.0,0.0,en,1.0
 Yahoo,Yahoo,ORG,0.0,0.0,en,1.0
 Blackfeet Nation,Blackfeet Nation,ORG,-0.2833333333333333,0.0,en,1.0
 Nanoparticle-Loaded Injectable Hydrogel,Nanoparticle-Loaded Injectable Hydrogel,ORG,0.16,0.0,en,1.0
@@ -1105,14 +1105,14 @@ Knuckle Crunchers,Knuckle Crunchers,ORG,-0.2318181818181818,0.0,en,1.0
 Ionian Seas,Ionian Seas,ORG,-0.11666666666666665,0.0,en,1.0
 the Trump Justice Department’s,the Trump Justice Department’s,ORG,0.1111111111111111,0.0,en,1.0
 SPENCERPORT,SPENCERPORT,ORG,0.1,0.0,en,1.0
-Homo antecessor,Homo antecessor,ORG,0.14545454545454545,0.0,en,1.0
 perf,perf,ORG,0.0,0.0,en,1.0
-Geophys,Geophys,ORG,0.0,0.0,en,1.0
-"Lett.33, L19820 (","Lett.33, L19820 (",ORG,0.0,0.0,en,1.0
 RNA,RNA,ORG,0.125,0.0,en,1.0
 tBLASTn,tBLASTn,ORG,-0.16666666666666666,0.0,en,1.0
 NCBI,NCBI,ORG,-0.16666666666666666,0.0,en,1.0
 ht,ht,ORG,-0.16666666666666666,0.0,en,1.0
+Geophys,Geophys,ORG,0.0,0.0,en,1.0
+"Lett.33, L19820 (","Lett.33, L19820 (",ORG,0.0,0.0,en,1.0
+Nature488,Nature488,ORG,0.0,0.0,en,1.0
 Main Street Alford,Main Street Alford,ORG,0.04583333333333333,0.0,en,1.0
 Aberdeenshire Council,Aberdeenshire Council,ORG,0.04583333333333333,0.0,en,1.0
 HVAC,HVAC,ORG,0.0,0.0,en,1.0
@@ -1133,7 +1133,7 @@ Eurostar,Eurostar,ORG,0.0,0.0,en,1.0
 V8,V8,ORG,0.03333333333333335,0.0,en,1.0
 Tehrans Grand Bazaar,Tehrans Grand Bazaar,ORG,-0.049999999999999996,0.0,en,1.0
 24P/Schaumasse,24P/Schaumasse,ORG,0.0,0.0,en,1.0
-Nature488,Nature488,ORG,0.0,0.0,en,1.0
+Homo antecessor,Homo antecessor,ORG,0.14545454545454545,0.0,en,1.0
 Colder Temperatures Ahead,Colder Temperatures Ahead,ORG,0.0,0.0,en,1.0
 Ganges Delta,Ganges Delta,ORG,0.0,0.0,en,1.0
 Alego Usonga,Alego Usonga,ORG,0.18333333333333335,0.0,en,1.0
@@ -1179,12 +1179,12 @@ Walt Disney World Guests Advised To Bring New Items Into Parks During Visits,Wal
 FAFO,FAFO,ORG,0.2,0.0,en,1.0
 KYIV,KYIV,ORG,0.17777777777777776,0.0,en,1.0
 the Golden Raider Tool,the Golden Raider Tool,ORG,0.009999999999999998,0.0,en,1.0
-metasurface optical tweezer arrays,metasurface optical tweezer arrays,ORG,-0.07142857142857142,0.0,en,1.0
-A. M. &amp,A. M. &amp,ORG,0.0,0.0,en,1.0
 "highlighti… Mice
 ","highlighti… Mice
 ",ORG,0.0,0.0,en,1.0
 P14,P14,ORG,0.0,0.0,en,1.0
+metasurface optical tweezer arrays,metasurface optical tweezer arrays,ORG,-0.07142857142857142,0.0,en,1.0
+A. M. &amp,A. M. &amp,ORG,0.0,0.0,en,1.0
 the German Armed Forces Reservists Association,the German Armed Forces Reservists Association,ORG,0.0,0.0,en,1.0
 CBT,CBT,ORG,0.0,0.0,en,1.0
 Delhi-NCR,Delhi-NCR,ORG,0.0,0.0,en,1.0
