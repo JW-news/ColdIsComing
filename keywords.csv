@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cold snap',en,Hazard,#ff0000,#ff0000,3,0.0751400336675749
-'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.0710055088158979
+'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.06985924203896776
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0679170579919079
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0666868267444401
-'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.06625057226544007
+'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.06625057226544
 'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0645171209874105
 'cold front',en,Causes,#00ffff,#00ffff,3,0.0640254469314229
 'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0593036547940607
