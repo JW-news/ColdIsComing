@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0603476101398935
 'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0594006057298883
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0591580026332164
-'cold front',en,Causes,#00ffff,#00ffff,3,0.0576071386921637
 'heating system',en,Mitigation,#00ff00,#00ff00,3,0.05749472834949
-'cold wave',en,Hazard,#ff0000,#ff0000,3,0.05718725776412868
+'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0571872577641286
 'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.0554993821579331
+'cold front',en,Causes,#00ffff,#00ffff,3,0.05394197288833914
 'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.0394733558864993
 'colder than usual',en,Hazard,#ff0000,#ff0000,1,0.0318096140665059
