@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0615545329450313
 'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0608997138260729
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0606696140021047
-'cold front',en,Causes,#00ffff,#00ffff,3,0.0508262519550882
-'cold snap',en,Hazard,#ff0000,#ff0000,3,0.04868064547553501
+'cold front',en,Causes,#00ffff,#00ffff,3,0.053634114616370424
+'cold snap',en,Hazard,#ff0000,#ff0000,3,0.048680645475535
 'colder than usual',en,Hazard,#ff0000,#ff0000,2,0.0478340091885928
 'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.0342625464724327
