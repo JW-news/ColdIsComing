@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0488954589361116
 'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0485676323836662
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0476367884851277
-'cold front',en,Causes,#00ffff,#00ffff,3,0.046931053398601874
-'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.0440116033647228
+'cold front',en,Causes,#00ffff,#00ffff,3,0.0469310533986018
 'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0429188371411547
+'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.039664332860014376
 'colder than usual',en,Hazard,#ff0000,#ff0000,2,0.0395505549500577
