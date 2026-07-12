@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.05585696900115086
-'cold wave',en,Hazard,#ff0000,#ff0000,3,0.050365403453232
+'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0558569690011508
+'cold wave',en,Hazard,#ff0000,#ff0000,3,0.05376041051589235
 'cold snap',en,Hazard,#ff0000,#ff0000,3,0.0499748747397999
 'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.0495271842464632
 'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0488954589361116
