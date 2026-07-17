@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'cold front',en,Causes,#00ffff,#00ffff,3,0.0662283267524479
-'heating system',en,Mitigation,#00ff00,#00ff00,3,0.06271201809447598
+'heating system',en,Mitigation,#00ff00,#00ff00,3,0.0627120180944759
+'cold front',en,Causes,#00ffff,#00ffff,3,0.06217628364867162
 'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.0526160950110315
 'cold snap',en,Hazard,#ff0000,#ff0000,3,0.0524379385288299
 'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.0504445579310121
