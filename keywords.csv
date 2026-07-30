@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0529774020639853
 'cold front',en,Causes,#00ffff,#00ffff,3,0.0526427713595422
 'cold wave',en,Hazard,#ff0000,#ff0000,3,0.0475168002325082
-'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.045471265922722146
+'colder than usual',en,Hazard,#ff0000,#ff0000,2,0.047198654507828446
+'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.0454712659227221
 'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0449569914900934
-'colder than usual',en,Hazard,#ff0000,#ff0000,2,0.0422168742872848
