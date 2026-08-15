@@ -6,6 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'extreme cold',en,Hazard,#ff0000,#ff0000,3,0.0523401291654804
 'cold impacts',en,Impacts,#ffff00,#ffff00,3,0.0505502314973028
 'insulation house',en,Adaptation,#0000ff,#0000ff,3,0.0505070315618057
+'cold spell',en,Hazard,#ff0000,#ff0000,3,0.048588597350134335
 'colder than usual',en,Hazard,#ff0000,#ff0000,2,0.0473138020473076
-'cold spell',en,Hazard,#ff0000,#ff0000,3,0.0471006851178051
-'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.033745750964916985
+'cold days climate change',en,Causes,#00ffff,#00ffff,3,0.0337457509649169
